@@ -1,0 +1,578 @@
+2025-05-25 19:45:06,744 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:45:06,945 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:45:06,945 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:45:14,851 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Unknown)
+2025-05-25 19:45:14,851 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Unknown)
+2025-05-25 19:47:35,201 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:47:35,201 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:47:35,201 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:47:42,235 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:47:42,235 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:47:42,235 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:47:42,237 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Low)
+2025-05-25 19:47:42,237 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Low)
+2025-05-25 19:47:42,237 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Low)
+2025-05-25 19:48:51,679 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,679 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,679 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,679 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,856 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,856 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,856 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,856 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:51,856 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:48:59,262 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:48:59,262 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:48:59,262 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:48:59,262 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:48:59,262 | WARNING  | ActionRecommender | Invalid confidence: High, defaulting to low
+2025-05-25 19:48:59,266 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Medium)
+2025-05-25 19:48:59,266 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Medium)
+2025-05-25 19:48:59,266 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Medium)
+2025-05-25 19:48:59,266 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Medium)
+2025-05-25 19:48:59,266 | INFO     | ActionRecommender | Recommended action: FLAG_FOR_REVIEW (Severity: Medium)
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:37,757 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:52:45,182 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,442 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:16,833 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:55:23,557 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:22,813 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:56:27,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,465 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:09,602 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:16,057 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:51,743 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:52,702 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:57:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:27,601 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:28,696 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:58:38,029 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:09,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:11,572 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:19,047 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,171 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:39,300 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 19:59:47,461 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:26,240 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:27,851 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:00:35,955 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:04,078 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:07,080 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:14,908 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:30,122 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 20:01:34,952 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 22:59:35,579 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:39,961 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:39,961 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:39,964 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:39,964 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:39,964 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:00:46,926 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 23:00:46,926 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 23:00:46,926 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-05-25 23:01:54,620 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,620 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,620 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,620 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,723 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,723 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,723 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,723 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:01:54,723 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:01,515 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 23:02:01,515 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 23:02:01,515 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 23:02:01,515 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 23:02:01,515 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_WARN (Severity: Medium)
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:41,809 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:42,474 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:02:50,772 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:34,840 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:35,174 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
+2025-05-25 23:03:42,318 | INFO     | ActionRecommender | Recommended action: REMOVE_AND_BAN (Severity: Critical)
