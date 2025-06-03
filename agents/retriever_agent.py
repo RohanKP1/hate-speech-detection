@@ -24,7 +24,7 @@ class HybridRetrieverAgent:
             self.logger.error(f"Error initializing embeddings: {str(e)}")
             raise
     
-    def retrieve_relevant_policies(self, query: str, classification: str, top_k: int = 3) -> list:
+    def retrieve_relevant_policies(self, query: str, classification: str, top_k: int = 5) -> list:
         """Retrieve relevant policy documents based on query and classification"""
         try:
             # Enhance query with classification for better retrieval
