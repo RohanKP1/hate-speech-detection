@@ -1,6 +1,8 @@
-streamlit>=1.28.0
-openai>=0.28.0
 faiss-cpu>=1.7.4
 numpy>=1.24.0
+openai>=1.82.0
 pandas>=2.0.0
+pyaudio>=0.2.14
 python-dotenv>=1.0.0
+qdrant-client>=1.14.2
+streamlit>=1.28.0
