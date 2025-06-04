@@ -1,0 +1,19 @@
+2025-06-05 00:07:38,667 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 00:09:02,616 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 00:09:50,392 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:21:29,899 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 00:22:54,955 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:29:30,564 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:38:52,756 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:43:08,292 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:46:34,463 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:49:20,004 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:50:31,485 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:54:49,132 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:56:00,371 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:57:40,682 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 00:58:40,187 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 00:59:59,817 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 01:03:20,017 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 01:06:25,079 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 01:12:16,587 | INFO     | HybridRetriever | Retrieved 5 relevant policies

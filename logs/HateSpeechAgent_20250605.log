@@ -1,0 +1,351 @@
+2025-06-05 00:07:26,696 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:08:47,730 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:09:46,789 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 00:21:16,799 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:21:51,391 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:21:54,416 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:21:54,416 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:22:01,097 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:22:01,097 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:28:36,875 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to insult or threaten.
+2025-06-05 00:28:36,875 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to insult or threaten.
+2025-06-05 00:28:39,568 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:28:39,568 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:28:39,568 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:28:41,688 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:28:41,688 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:28:41,688 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:37:56,492 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:37:56,492 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:37:56,492 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:37:59,494 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:37:59,494 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:37:59,494 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:37:59,494 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:38:01,573 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:38:01,573 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:38:01,573 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:38:01,573 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:42:40,317 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a harmful intent towards others.
+2025-06-05 00:42:40,317 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a harmful intent towards others.
+2025-06-05 00:42:40,317 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a harmful intent towards others.
+2025-06-05 00:42:40,317 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a harmful intent towards others.
+2025-06-05 00:42:43,013 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:42:43,013 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:42:43,013 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:42:43,013 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:42:43,013 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:42:45,121 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:42:45,121 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:42:45,121 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:42:45,121 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:42:45,121 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:09,624 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:09,624 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:09,624 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:09,624 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:09,624 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:12,259 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:46:17,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a desire to insult or dismiss someone aggressively.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:51,748 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:54,437 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:48:57,175 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:50:28,720 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is likely to be considered inappropriate and disrespectful in many contexts.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:54:46,234 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and disrespectful, violating community standards.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:08,889 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that may be considered inappropriate or disrespectful in many contexts.
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:12,236 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:55:14,027 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains vulgar language that is inappropriate and likely violates community standards.
+2025-06-05 00:57:25,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:58:02,063 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:58:04,556 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:58:04,556 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:58:06,756 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:58:06,756 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:59:27,751 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:59:27,751 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:59:30,175 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:59:30,175 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:59:30,175 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 00:59:32,261 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:59:32,261 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 00:59:32,261 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:51,357 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is generally considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:51,357 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is generally considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:51,357 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is generally considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:54,618 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 01:02:54,618 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 01:02:54,618 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 01:02:54,618 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 01:02:56,697 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:56,697 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:56,697 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:02:56,697 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:06:22,067 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:06:22,067 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:06:22,067 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:06:22,067 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The term "fuck" is considered vulgar and inappropriate language that violates community standards.
+2025-06-05 01:12:12,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inappropriate, which may violate community standards.
+2025-06-05 01:12:12,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inappropriate, which may violate community standards.
+2025-06-05 01:12:12,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inappropriate, which may violate community standards.
+2025-06-05 01:12:12,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inappropriate, which may violate community standards.

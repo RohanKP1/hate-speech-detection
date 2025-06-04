@@ -6,6 +6,7 @@ from agents.reasoning_agent import PolicyReasoningAgent
 from agents.action_agent import ActionRecommenderAgent
 from agents.error_handler import ErrorHandlerAgent
 from agents.audio_agent import AudioTranscriptionAgent
+from agents.validation_agent import ValidationAgent  # Import the ValidationAgent
 import pandas as pd
 from datetime import datetime
 import tempfile
@@ -76,11 +77,36 @@ st.markdown("""
     .offensive { background-color: #ffc107; color: black; }
     .neutral { background-color: #28a745; color: white; }
     .ambiguous { background-color: #6c757d; color: white; }
+    .error { background-color: #dc3545; color: white; }
     .sidebar-section {
         background: #f8f9fa;
         padding: 1rem;
         border-radius: 0.5rem;
         margin: 1rem 0;
+    }
+    .validation-success {
+        background-color: #d4edda;
+        border: 1px solid #c3e6cb;
+        border-radius: 0.375rem;
+        padding: 0.75rem;
+        margin: 0.5rem 0;
+        color: #155724;
+    }
+    .validation-warning {
+        background-color: #fff3cd;
+        border: 1px solid #ffeaa7;
+        border-radius: 0.375rem;
+        padding: 0.75rem;
+        margin: 0.5rem 0;
+        color: #856404;
+    }
+    .validation-error {
+        background-color: #f8d7da;
+        border: 1px solid #f5c6cb;
+        border-radius: 0.375rem;
+        padding: 0.75rem;
+        margin: 0.5rem 0;
+        color: #721c24;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -100,7 +126,8 @@ def init_session_state():
         'last_auto_analyzed_text': '',  # Track last auto-analyzed text
         'auto_analyze_debounce': 0,  # Debounce timer for auto-analysis
         'quick_mode': False,  # Quick mode setting
-        'auto_analyze': False  # Auto-analyze setting
+        'auto_analyze': False,  # Auto-analyze setting
+        'use_validation': False  # Validation setting
     }
     for key, value in defaults.items():
         if key not in st.session_state:
@@ -121,7 +148,8 @@ def initialize_agents():
             'reasoning': PolicyReasoningAgent(),
             'action': ActionRecommenderAgent(),
             'error_handler': ErrorHandlerAgent(),
-            'audio': AudioTranscriptionAgent()
+            'audio': AudioTranscriptionAgent(),
+            'validation': ValidationAgent()  # Add validation agent
         }
         return agents
     except Exception as e:
@@ -141,6 +169,44 @@ def create_metric_card(title, value, color="#667eea"):
         <p style="margin: 0; opacity: 0.8;">{title}</p>
     </div>
     """
+
+def validate_classification(agents, user_input, classification_result):
+    """Validate classification using ValidationAgent"""
+    try:
+        validation_result = agents['validation'].validate_classification(user_input)
+        return validation_result
+    except Exception as e:
+        return {
+            'status': 'error',
+            'error': f'Validation failed: {str(e)}'
+        }
+
+def display_validation_results(validation_result):
+    """Display validation results with appropriate styling"""
+    if validation_result['status'] == 'success':
+        st.markdown("""
+        <div class="validation-success">
+            ✅ <strong>Validation Successful:</strong> Both models agree on the classification. 
+            Results are reliable with no detected hallucinations.
+        </div>
+        """, unsafe_allow_html=True)
+        return True
+        
+    elif validation_result['status'] == 'failure':
+        st.markdown("""
+        <div class="validation-warning">
+            ⚠️ <strong>Validation Warning:</strong> Models disagree on classification. 
+            Potential hallucination detected in AI output.
+        </div>
+        """, unsafe_allow_html=True)
+        
+    else:  # error
+        st.markdown(f"""
+        <div class="validation-error">
+            ❌ <strong>Validation Error:</strong> {validation_result.get('error', 'Unknown error occurred')}
+        </div>
+        """, unsafe_allow_html=True)
+        return False
 
 async def analyze_content_async(agents, user_input):
     """Async content analysis for better performance"""
@@ -232,9 +298,17 @@ def render_sidebar_navigation():
             value=st.session_state.auto_analyze,
             help="Analyze as you type (with 2 second delay)")
         
-        # Show auto-analyze status
+        # Validation setting
+        st.session_state.use_validation = st.checkbox("Use Validation", 
+            value=st.session_state.use_validation,
+            help="Validate results with secondary AI model to detect hallucinations")
+        
+        # Show settings status
         if st.session_state.auto_analyze:
             st.info("🤖 Auto-analyze is ON")
+        
+        if st.session_state.use_validation:
+            st.info("🔍 Validation is ON")
         
         # Advanced settings
         with st.expander("Advanced Settings"):
@@ -257,7 +331,7 @@ def render_sidebar_navigation():
             st.rerun()
 
 def perform_analysis(agents, user_input):
-    """Centralized analysis function"""
+    """Centralized analysis function with validation support"""
     # Input validation
     validation = agents['error_handler'].validate_input(user_input)
     if not validation['valid']:
@@ -274,13 +348,27 @@ def perform_analysis(agents, user_input):
     try:
         # Step 1: Classification
         status_text.text("🔍 Classifying content...")
-        progress_bar.progress(25)
+        progress_bar.progress(20)
         classification = agents['hate_speech'].classify_text(user_input)
+        
+        # Step 1.5: Validation (if enabled)
+        validation_passed = True
+        validation_result = None
+        
+        if st.session_state.use_validation:
+            status_text.text("🔍 Validating classification...")
+            progress_bar.progress(35)
+            validation_result = validate_classification(agents, user_input, classification)
+            validation_passed = display_validation_results(validation_result)
+            
+            # If validation fails, we still continue but mark it
+            if not validation_passed:
+                st.warning("⚠️ Proceeding with analysis despite validation concerns. Please review results carefully.")
         
         # Step 2: Policy Retrieval (skip in quick mode)
         if not st.session_state.quick_mode:
             status_text.text("📚 Retrieving relevant policies...")
-            progress_bar.progress(50)
+            progress_bar.progress(55)
             retrieved = agents['retriever'].retrieve_relevant_policies(
                 user_input, classification['classification']
             )
@@ -306,7 +394,9 @@ def perform_analysis(agents, user_input):
             'classification': classification,
             'retrieved': retrieved,
             'explanation': explanation,
-            'recommendation': recommendation
+            'recommendation': recommendation,
+            'validation_result': validation_result,
+            'validation_passed': validation_passed
         }
         
     except Exception as e:
@@ -322,6 +412,11 @@ def display_analysis_results(user_input, results):
     retrieved = results['retrieved']
     explanation = results['explanation']
     recommendation = results['recommendation']
+    validation_passed = results.get('validation_passed', True)
+    
+    # Show validation warning banner if validation failed
+    if st.session_state.use_validation and not validation_passed:
+        st.warning("⚠️ **Validation Alert:** The AI models disagreed on this classification. Please review the results carefully as there may be hallucinations in the output.")
     
     # Main results row
     col1, col2, col3 = st.columns([1, 1, 1])
@@ -333,23 +428,58 @@ def display_analysis_results(user_input, results):
             classification['confidence']
         )
         st.markdown(badge_html, unsafe_allow_html=True)
+
+        # Show bagde for second validation model if validation is used
+        if st.session_state.use_validation and results.get('validation_result'):
+            validation_classification = results['validation_result']['validation_classification']
+            validation_badge_html = get_classification_badge(
+                validation_classification['classification'], 
+                validation_classification['confidence']
+            )
+            st.markdown(validation_badge_html, unsafe_allow_html=True)
         
-        with st.expander("📋 Details"):
-            st.write(f"**Reasoning:** {classification['reason']}")
-    
+        # Add validation indicator
+        if st.session_state.use_validation:
+            if validation_passed:
+                st.success("✅ Validated")
+            else:
+                st.error("⚠️ Validation Failed")
+        
+        
+        if not st.session_state.use_validation:
+            with st.expander("📋 Primary Agent", expanded=True):
+                st.write(f"**Reasoning:** {classification['reason']}")
+        else:
+            with st.expander("📋 Primary Agent"):
+                st.write(f"**Reasoning:** {classification['reason']}")
+
+            with st.expander("📋 Validation Agent"):
+                validation_classification = results['validation_result']['validation_classification']
+                st.write(f"**Reasoning:** {validation_classification['reason']}")
+
     with col2:
         st.markdown("### ⚡ Recommended Action")
         st.info(f"**{recommendation['action']}**")
         st.caption(f"Severity: {recommendation['severity']}")
         
-        with st.expander("🤔 Why this action?"):
-            st.write(recommendation['reasoning'])
+        if st.session_state.use_validation:
+            with st.expander("🤔 Why this action?", expanded=True):
+                st.write(recommendation['reasoning'])
+        else:
+            with st.expander("🤔 Why this action?"):
+                st.write(recommendation['reasoning'])
+
     
     with col3:
         st.markdown("### 📊 Summary")
         risk_level = "High" if classification['classification'] in ['Hate', 'Toxic'] else "Low"
         st.metric("Risk Level", risk_level)
         st.metric("Confidence", classification['confidence'])
+        
+        # Add validation status
+        if st.session_state.use_validation:
+            validation_status = "✅ Passed" if validation_passed else "⚠️ Failed"
+            st.metric("Validation", validation_status)
 
     # Additional information (expandable)
     if not st.session_state.quick_mode:
@@ -370,15 +500,18 @@ def display_analysis_results(user_input, results):
             st.markdown("### 🔍 Detailed Analysis")
             st.write(explanation)
 
-    # Store results in history
-    st.session_state.results_history.append({
+    # Store results in history with validation info
+    history_entry = {
         'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         'text': user_input[:100] + "..." if len(user_input) > 100 else user_input,
         'classification': classification['classification'],
         'confidence': classification['confidence'],
         'action': recommendation['action'],
-        'severity': recommendation['severity']
-    })
+        'severity': recommendation['severity'],
+        'validated': validation_passed if st.session_state.use_validation else None
+    }
+    
+    st.session_state.results_history.append(history_entry)
 
 def should_auto_analyze(user_input):
     """Check if auto-analysis should be triggered"""
