@@ -1,6 +1,5 @@
 from utils.embeddings import PolicyEmbeddings
 from utils.custom_logger import CustomLogger
-import os
 
 class HybridRetrieverAgent:
     def __init__(self, policy_docs_path: str):

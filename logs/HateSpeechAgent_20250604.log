@@ -1,0 +1,42 @@
+2025-06-04 13:45:45,333 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 13:46:30,207 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:47:37,252 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:48:42,164 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:54:28,540 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:56:48,471 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 13:56:49,705 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:27:38,020 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:27:39,139 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:27:52,293 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:27:53,510 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:29:46,531 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:29:47,608 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:46:49,453 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:47:14,471 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:48:14,281 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:48:15,651 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:49:08,050 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:49:09,428 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 14:50:18,239 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:50:19,610 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 14:51:30,417 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:51:33,297 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 14:58:16,027 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:58:50,791 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:00:03,019 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:00:05,353 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The phrase "I hate you!" expresses hostility and creates a negative environment, qualifying it as harmful content.
+2025-06-04 15:01:16,781 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:01:49,484 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:02:19,363 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:10:49,669 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:10:51,689 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement expresses hostility and includes the phrase "I hate you," which creates a harmful and abusive tone.
+2025-06-04 15:12:35,303 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:12:59,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hellooo" does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.

@@ -92,3 +92,92 @@
 2025-06-03 13:49:21,297 | INFO     | AudioTranscriptionAgent | * Recording finished
 2025-06-03 13:49:23,660 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
 2025-06-03 14:00:59,848 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:11:58,445 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:12:08,349 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 14:12:13,356 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 14:12:16,882 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:12:24,945 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 14:12:29,950 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 14:12:32,132 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:12:40,920 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 14:12:45,926 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 14:12:47,922 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:14:30,164 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:14:44,811 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:15:10,027 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:15:19,604 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:17:03,595 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:22:59,790 | ERROR    | AudioTranscriptionAgent | Failed to transcribe audio: expected str, bytes or os.PathLike object, not UploadedFile
+2025-06-03 14:23:06,708 | ERROR    | AudioTranscriptionAgent | Failed to transcribe audio: expected str, bytes or os.PathLike object, not UploadedFile
+2025-06-03 14:24:39,913 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:24:52,516 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:26:38,336 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:26:49,792 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:26:58,065 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:28:55,520 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:29:05,674 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:30:38,085 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:30:47,285 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:33:18,151 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:33:30,253 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:33:51,036 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:34:18,256 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:34:19,538 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:40:36,437 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:40:47,720 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:40:54,901 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:40:57,306 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:41:24,116 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:41:26,837 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:44:15,511 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 14:44:25,189 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:45:14,408 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:45:30,204 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:45:38,932 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:46:38,479 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:46:47,940 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 14:48:20,076 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 15:37:29,622 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 15:37:42,578 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 15:38:40,685 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 15:39:10,320 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:26:19,277 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 16:27:47,262 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:27:53,219 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 16:27:58,226 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 16:28:00,366 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:28:22,057 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:43:15,159 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:46:13,369 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 16:46:18,375 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 16:46:20,176 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:52:21,800 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:53:38,423 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 16:54:05,817 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:08:12,440 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:08:45,420 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:14:01,866 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:14:54,900 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 17:14:59,907 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 17:15:03,482 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:18:42,059 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:31:00,411 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:31:03,506 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 17:31:08,512 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 17:31:11,306 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:38:38,919 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 17:39:41,165 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:40:14,469 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 17:40:19,475 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 17:40:23,128 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 17:55:30,722 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 18:02:15,869 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 18:07:50,001 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 18:14:02,714 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-03 18:16:52,848 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 18:17:52,978 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 18:17:57,985 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 18:18:00,292 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-03 18:18:09,861 | INFO     | AudioTranscriptionAgent | * Recording started
+2025-06-03 18:18:14,868 | INFO     | AudioTranscriptionAgent | * Recording finished
+2025-06-03 18:18:18,470 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully

@@ -41,7 +41,7 @@ class HateSpeechDetectionAgent:
             self.logger.debug(f"Sending classification request for text: {text[:50]}...")
             
             response = self.client.chat.completions.create(
-                model="gpt-4",
+                model=Config.MODEL_NAME,
                 messages=[
                     {"role": "system", "content": "You are an expert content moderation specialist."},
                     {"role": "user", "content": prompt}

@@ -49,7 +49,7 @@ class PolicyReasoningAgent:
             self.logger.debug(f"Sending explanation request for text: {text[:50]}...")
             
             response = self.client.chat.completions.create(
-                model="gpt-4",
+                model=Config.MODEL_NAME,
                 messages=[
                     {"role": "system", "content": "You are an expert policy analyst specializing in content moderation and hate speech detection."},
                     {"role": "user", "content": prompt}

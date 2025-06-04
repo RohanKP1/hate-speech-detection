@@ -1,0 +1,6 @@
+2025-06-04 13:46:01,274 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-04 13:46:20,277 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-04 14:47:04,594 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-04 14:58:30,018 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-04 15:02:01,981 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-04 15:12:49,505 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
