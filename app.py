@@ -673,7 +673,7 @@ def render_history_page():
     st.markdown("---")
     st.markdown("### Bulk Actions")
     
-    col1, col2, col3 = st.columns([1, 1, 2])
+    col1, col2 = st.columns([1, 3])
     with col1:
         if st.button("Export Filtered Data", use_container_width=True, type="primary"):
             csv = filtered_df.to_csv(index=False)
@@ -686,9 +686,6 @@ def render_history_page():
                 key="download_filtered"
             )
     
-    with col2:
-        if st.button("Generate Report", use_container_width=True, type="primary"):
-            st.info("Report generation feature coming soon!")
 
 def main():
     init_session_state()

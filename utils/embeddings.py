@@ -1,5 +1,4 @@
 from openai import OpenAI
-import numpy as np
 import os
 import json
 import hashlib
@@ -7,10 +6,8 @@ from datetime import datetime
 from typing import List, Dict, Any, Optional
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct, Filter, FieldCondition, MatchValue
-from qdrant_client.http.exceptions import UnexpectedResponse
 from core.config import Config
 from utils.custom_logger import CustomLogger
-
 
 class PolicyEmbeddings:
     def __init__(self, 

@@ -9,19 +9,19 @@ class ActionRecommenderAgent:
         self.logger = CustomLogger("ActionRecommender")
         self.action_map = {
             'Hate': {
-                'high': 'REMOVE_AND_BAN',
-                'medium': 'REMOVE_AND_WARN',
-                'low': 'FLAG_FOR_REVIEW'
+                'high': 'REMOVE AND BAN',
+                'medium': 'REMOVE AND WARN',
+                'low': 'FLAG FOR REVIEW'
             },
             'Toxic': {
-                'high': 'REMOVE_AND_WARN',
-                'medium': 'REMOVE_AND_WARN',
-                'low': 'FLAG_FOR_REVIEW'
+                'high': 'REMOVE AND WARN',
+                'medium': 'REMOVE AND WARN',
+                'low': 'FLAG FOR REVIEW'
             },
             'Offensive': {
-                'high': 'REMOVE_AND_WARN',
-                'medium': 'WARN_USER',
-                'low': 'FLAG_FOR_REVIEW'
+                'high': 'REMOVE AND WARN',
+                'medium': 'WARN USER',
+                'low': 'FLAG FOR REVIEW'
             },
             'Neutral': {
                 'high': 'ALLOW',
@@ -29,17 +29,17 @@ class ActionRecommenderAgent:
                 'low': 'ALLOW'
             },
             'Ambiguous': {
-                'high': 'FLAG_FOR_REVIEW',
-                'medium': 'FLAG_FOR_REVIEW',
-                'low': 'FLAG_FOR_REVIEW'
+                'high': 'FLAG FOR REVIEW',
+                'medium': 'FLAG FOR REVIEW',
+                'low': 'FLAG FOR REVIEW'
             }
         }
         
         self.action_descriptions = {
-            'REMOVE_AND_BAN': 'Remove content immediately and ban user account',
-            'REMOVE_AND_WARN': 'Remove content and issue warning to user',
-            'WARN_USER': 'Keep content but warn user about policy violation',
-            'FLAG_FOR_REVIEW': 'Flag content for human moderator review',
+            'REMOVE AND BAN': 'Remove content immediately and ban user account',
+            'REMOVE AND WARN': 'Remove content and issue warning to user',
+            'WARN USER': 'Keep content but warn user about policy violation',
+            'FLAG FOR REVIEW': 'Flag content for human moderator review',
             'ALLOW': 'Allow content to remain published'
         }
         self.logger.info("Initialized action recommender with predefined policies")
@@ -92,7 +92,7 @@ class ActionRecommenderAgent:
         except Exception as e:
             self.logger.error(f"Error recommending action: {str(e)}")
             return {
-                'action': 'FLAG_FOR_REVIEW',
+                'action': 'FLAG FOR REVIEW',
                 'description': 'Flag for human review due to error',
                 'severity': 'Unknown',
                 'reasoning': f'Error in action recommendation: {str(e)}'
@@ -132,10 +132,10 @@ class ActionRecommenderAgent:
         """Generate reasoning for the recommended action"""
         try:
             base_reasoning = {
-                'REMOVE_AND_BAN': f"Content classified as {category} with {confidence} confidence requires immediate removal and account suspension to prevent further violations.",
-                'REMOVE_AND_WARN': f"Content classified as {category} with {confidence} confidence violates community guidelines and should be removed with user education.",
-                'WARN_USER': f"Content classified as {category} with {confidence} confidence borders on policy violation and requires user notification.",
-                'FLAG_FOR_REVIEW': f"Content classified as {category} with {confidence} confidence requires human judgment for proper assessment.",
+                'REMOVE AND BAN': f"Content classified as {category} with {confidence} confidence requires immediate removal and account suspension to prevent further violations.",
+                'REMOVE AND WARN': f"Content classified as {category} with {confidence} confidence violates community guidelines and should be removed with user education.",
+                'WARN USER': f"Content classified as {category} with {confidence} confidence borders on policy violation and requires user notification.",
+                'FLAG FOR REVIEW': f"Content classified as {category} with {confidence} confidence requires human judgment for proper assessment.",
                 'ALLOW': f"Content classified as {category} with {confidence} confidence complies with community guidelines."
             }
             

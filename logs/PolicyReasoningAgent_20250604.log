@@ -14,3 +14,13 @@
 2025-06-04 15:10:57,361 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-04 15:12:48,805 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client
 2025-06-04 15:13:10,120 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 15:29:34,563 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:30:09,972 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 15:34:02,807 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 15:34:56,844 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:35:16,479 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 15:35:40,374 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 16:00:26,392 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:00:47,139 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-04 16:11:10,580 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:11:26,267 | INFO     | PolicyReasoningAgent | Successfully generated explanation

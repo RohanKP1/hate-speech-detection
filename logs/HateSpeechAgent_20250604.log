@@ -40,3 +40,25 @@ Brief Reason: The statement expresses hostility and includes the phrase "I hate 
 2025-06-04 15:12:59,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
 Confidence: High  
 Brief Reason: The text "hellooo" does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 15:29:20,481 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:29:59,804 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 15:33:54,038 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 15:34:42,965 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:35:09,304 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting without any harmful or offensive content.
+2025-06-04 15:35:33,304 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 16:00:11,111 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:00:41,109 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a casual greeting without any harmful or inappropriate content.
+2025-06-04 16:10:54,978 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:11:20,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helllo" does not contain any harmful, abusive, or inappropriate content and appears to be a misspelling of "hello."
