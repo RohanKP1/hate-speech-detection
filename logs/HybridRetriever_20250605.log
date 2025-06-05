@@ -72,3 +72,48 @@ vector.NamedSparseVector
 2025-06-05 18:37:21,684 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
 2025-06-05 18:37:50,041 | INFO     | HybridRetriever | Retrieved 5 relevant policies
 2025-06-05 18:37:50,041 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 18:58:23,230 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 18:58:38,779 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 18:58:38,779 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 18:59:29,864 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 18:59:29,864 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:34:51,508 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:35:08,363 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:35:08,363 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:10,054 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:23,992 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:23,992 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:43,798 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:59,524 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:36:59,524 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:38:13,640 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:38:27,700 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:38:27,700 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:38:52,460 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:39:07,935 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:39:07,935 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:41:07,722 | ERROR    | HybridRetriever | Error retrieving policies: Connection error.
+2025-06-05 23:41:07,722 | ERROR    | HybridRetriever | Error retrieving policies: Connection error.
+2025-06-05 23:42:42,211 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:42:42,211 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:43:30,186 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:43:30,186 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:54:09,500 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:56:12,066 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 23:58:46,572 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:01,069 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:01,069 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:20,368 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:34,543 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:34,543 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 23:59:52,964 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-06 00:00:07,339 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-06 00:00:07,339 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-06 00:00:33,032 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:00:33,032 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:03,629 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:03,629 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:35,844 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:35,844 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:44,854 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 00:01:44,854 | INFO     | HybridRetriever | Retrieved 5 relevant policies

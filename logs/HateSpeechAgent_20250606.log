@@ -1,0 +1,166 @@
+2025-06-06 00:02:58,212 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:03:12,471 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:03:12,471 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:03:30,400 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:03:45,293 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:03:45,293 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:04:36,217 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:14:35,130 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:14:49,685 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:14:49,685 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:15:08,314 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:15:23,002 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:15:23,002 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 00:15:48,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a casual greeting and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 00:15:48,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a casual greeting and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 00:44:35,729 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 00:44:35,729 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:16:27,331 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:16:27,331 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:28:01,466 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:28:01,466 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:29:49,242 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:29:49,242 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:55:43,865 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:55:43,865 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 01:58:35,610 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-06 01:58:35,610 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-06 02:00:11,762 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 02:00:11,762 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 02:00:11,762 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 02:00:13,707 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-06 02:00:13,707 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-06 02:00:13,707 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase "fuck off" is abusive and creates a hostile environment, indicating a clear intent to offend or threaten.
+2025-06-06 02:04:44,345 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:04:44,345 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:04:44,345 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:07:21,275 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:07:21,275 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:07:21,275 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:09:45,718 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:09:45,718 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:09:45,718 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:06,043 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:06,043 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:06,043 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:28,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:28,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:10:28,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:15:16,410 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 02:15:16,410 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 02:15:16,410 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 02:15:46,049 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:15:46,049 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:15:46,049 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:18:28,066 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful or inappropriate content.
+2025-06-06 02:18:28,066 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful or inappropriate content.
+2025-06-06 02:18:28,066 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful or inappropriate content.
+2025-06-06 02:19:57,860 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:19:57,860 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:19:57,860 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:20:21,567 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:20:21,567 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:20:21,567 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-06 02:28:33,700 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 02:28:33,700 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.
+2025-06-06 02:28:33,700 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helo" is a misspelling of "hello" and does not contain any harmful, abusive, or inappropriate content.

@@ -1,0 +1,22 @@
+2025-06-06 00:00:07,383 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:11,313 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:25,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:25,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:43,840 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:58,818 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:58,818 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:04:49,945 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:14:48,293 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:02,917 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:02,917 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:21,526 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:36,201 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:36,201 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 02:01:02,252 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "Fuck off" is a common phrase used to express frustration or annoyance. It does not promote hatred, violence, or create a hostile environment.
+2025-06-06 02:01:02,252 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "Fuck off" is a common phrase used to express frustration or annoyance. It does not promote hatred, violence, or create a hostile environment.
+2025-06-06 02:01:02,254 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 02:01:02,254 | WARNING  | ValidationAgent | Validation failed: classifications do not match
