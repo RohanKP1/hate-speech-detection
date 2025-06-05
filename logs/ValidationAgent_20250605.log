@@ -78,3 +78,33 @@ Brief Reason: "hello" is a common greeting that does not violate any policies.
 Confidence: High
 Brief Reason: "hello guys" is a common greeting used in online communication and does not violate any policies.
 2025-06-05 13:01:05,270 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-05 17:45:40,385 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 17:46:27,452 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text does not violate any policies and is simply a test message.
+2025-06-05 17:46:27,452 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-05 18:01:17,769 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:07:47,052 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:11:10,344 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:13:27,147 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:13:51,176 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:14:10,310 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:17:11,871 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The phrase "pagal hai tu" is ambiguous and could be interpreted in multiple ways. It could be a statement of love, a threat, or an insult depending on the context. Without more information, it's difficult to classify this content as hate, toxic, offensive, neutral, or ambiguous.
+2025-06-05 18:17:11,872 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-05 18:20:11,779 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:35:21,662 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:35:36,994 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:35:36,994 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:37:05,066 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:37:21,719 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:37:21,719 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-05 18:39:09,034 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-05 18:39:09,034 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-05 18:39:09,036 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-05 18:39:09,036 | WARNING  | ValidationAgent | Validation failed: classifications do not match

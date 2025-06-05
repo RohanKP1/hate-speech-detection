@@ -722,3 +722,64 @@ Brief Reason: No policy violation detected.
 2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
 2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
 2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 17:39:54,079 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 17:40:10,295 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a straightforward message that does not contain any hate speech or harmful content.
+2025-06-05 17:45:27,573 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 17:45:43,638 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a straightforward statement about testing for hate speech and does not contain any harmful or offensive content.
+2025-06-05 17:45:55,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 17:45:55,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 17:45:57,279 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: high  
+Brief Reason: The text is a straightforward statement about testing for hate speech and does not contain any harmful or inappropriate content.
+2025-06-05 17:45:57,279 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: high  
+Brief Reason: The text is a straightforward statement about testing for hate speech and does not contain any harmful or inappropriate content.
+2025-06-05 18:01:03,708 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:07:31,702 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:10:56,742 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:12:05,774 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a nonsensical phrase without any harmful or offensive content.
+2025-06-05 18:13:13,131 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:13:37,993 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:13:56,350 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:15:17,684 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-05 18:16:14,435 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:16:14,435 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:16:16,381 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase "pagal hai tu" translates to "you are crazy," which can be considered harmful or abusive in certain contexts, creating a potentially hostile environment.
+2025-06-05 18:16:16,381 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase "pagal hai tu" translates to "you are crazy," which can be considered harmful or abusive in certain contexts, creating a potentially hostile environment.
+2025-06-05 18:19:57,856 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:35:08,782 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:35:23,072 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:35:23,072 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:36:49,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:37:07,528 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:37:07,528 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:37:46,942 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a narrative without clear negative implications.
+2025-06-05 18:37:46,942 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a narrative without clear negative implications.
+2025-06-05 18:38:19,915 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:38:19,915 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:38:19,915 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 18:38:21,620 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a narrative without clear negative implications.
+2025-06-05 18:38:21,620 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a narrative without clear negative implications.
+2025-06-05 18:38:21,620 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a narrative without clear negative implications.
