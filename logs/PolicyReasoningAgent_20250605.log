@@ -42,3 +42,45 @@
 2025-06-05 12:58:30,996 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-05 12:59:34,292 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-05 13:01:13,837 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:34:25,166 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:25,167 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:34:26,077 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:26,077 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:26,078 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:34:26,078 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:34:27,262 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:27,262 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:27,262 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:27,263 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:34:27,263 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:34:27,263 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:34:28,217 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:28,217 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:28,217 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:28,217 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:29,786 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:29,786 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:29,786 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:29,786 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:29,786 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,912 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,912 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:40:07,972 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:07,972 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:07,973 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:40:07,973 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-05 13:40:08,979 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:08,979 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:08,979 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:08,980 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:40:08,980 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:40:08,980 | ERROR    | PolicyReasoningAgent | Unable to generate detailed explanation: Model error
+2025-06-05 13:40:10,039 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:10,039 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:10,039 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:10,039 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:11,094 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:11,094 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:11,094 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:11,094 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:11,094 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain

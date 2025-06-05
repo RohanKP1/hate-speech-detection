@@ -1,0 +1,6 @@
+2025-06-05 13:40:11,099 | INFO     | dummy_logger | Retrieved 2 relevant policies
+2025-06-05 13:40:11,121 | INFO     | dummy_logger | Retrieved 0 relevant policies
+2025-06-05 13:40:11,121 | INFO     | dummy_logger | Retrieved 0 relevant policies
+2025-06-05 13:40:11,124 | ERROR    | dummy_logger | Error retrieving policies: Search failed
+2025-06-05 13:40:11,124 | ERROR    | dummy_logger | Error retrieving policies: Search failed
+2025-06-05 13:40:11,124 | ERROR    | dummy_logger | Error retrieving policies: Search failed

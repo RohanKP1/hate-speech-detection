@@ -626,3 +626,99 @@ Brief Reason: The text "hello guys" is a simple greeting that does not contain a
 2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
 Confidence: High  
 Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:28:41,403 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:41,404 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate
+Confidence: high
+Brief Reason: Contains explicit hate speech.
+2025-06-05 13:28:42,402 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:42,402 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:42,403 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:28:42,403 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:28:43,244 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:43,244 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:43,244 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,010 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,010 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,010 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,010 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,825 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,825 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,825 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,825 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:28:44,825 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:27,587 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:27,588 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate
+Confidence: high
+Brief Reason: Contains explicit hate speech.
+2025-06-05 13:30:28,802 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:28,802 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:28,803 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:30:28,803 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:30:29,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:29,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:29,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,120 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,120 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,120 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,120 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:30:31,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:21,066 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:21,067 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate
+Confidence: high
+Brief Reason: Contains explicit hate speech.
+2025-06-05 13:34:21,787 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:21,787 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:21,788 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:34:21,788 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:34:22,560 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:22,560 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:22,560 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:23,326 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:23,326 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:23,326 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:23,326 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:24,291 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:24,291 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:24,291 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:24,291 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:34:24,291 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:03,077 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:03,078 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate
+Confidence: high
+Brief Reason: Contains explicit hate speech.
+2025-06-05 13:40:03,871 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:03,871 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:03,873 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:40:03,873 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral
+Confidence: high
+Brief Reason: No policy violation detected.
+2025-06-05 13:40:04,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:04,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:04,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:05,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:05,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:05,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:05,397 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:40:06,134 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
