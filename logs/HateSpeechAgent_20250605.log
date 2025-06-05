@@ -349,3 +349,280 @@ Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inapp
 2025-06-05 01:12:12,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
 Confidence: Medium  
 Brief Reason: The use of the phrase "looks fucked up" is disrespectful and inappropriate, which may violate community standards.
+2025-06-05 12:28:51,861 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:29:38,522 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a friendly greeting and does not contain any harmful, offensive, or inappropriate content.
+2025-06-05 12:31:43,885 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a friendly greeting and does not contain any harmful, offensive, or inappropriate content.
+2025-06-05 12:32:05,551 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:32:29,253 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:34:05,226 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:34:35,927 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:36:42,435 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:37:50,300 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:38:14,299 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:43:35,693 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:44:03,277 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 12:45:47,374 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:46:13,597 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a nonsensical string of characters without any harmful or offensive content.
+2025-06-05 12:48:24,400 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:48:47,371 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a random string of characters with no discernible meaning or context that would indicate any violation of policies.
+2025-06-05 12:50:04,626 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:51:46,925 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner, which contributes to a hostile environment.
+2025-06-05 12:51:48,395 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:51:48,395 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:51:50,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:51:50,048 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:53:40,489 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The statement is derogatory and body-shaming, which can create a hostile environment.
+2025-06-05 12:53:40,489 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The statement is derogatory and body-shaming, which can create a hostile environment.
+2025-06-05 12:53:41,986 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:53:41,986 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:53:41,986 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:53:43,723 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:53:43,723 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:53:43,723 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:54:20,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:20,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:20,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:21,527 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:21,527 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:21,527 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:21,527 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:23,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a way that creates a hostile environment.
+2025-06-05 12:54:23,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a way that creates a hostile environment.
+2025-06-05 12:54:23,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a way that creates a hostile environment.
+2025-06-05 12:54:23,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a way that creates a hostile environment.
+2025-06-05 12:54:55,393 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:55,393 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:55,393 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:55,393 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and harmful, targeting an individual's body size in a negative manner.
+2025-06-05 12:54:56,651 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:56,651 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:56,651 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:56,651 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:56,651 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:54:58,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards of respect and decency.
+2025-06-05 12:54:58,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards of respect and decency.
+2025-06-05 12:54:58,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards of respect and decency.
+2025-06-05 12:54:58,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards of respect and decency.
+2025-06-05 12:54:58,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards of respect and decency.
+2025-06-05 12:55:49,933 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:55:49,933 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:55:49,933 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:55:49,933 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:55:49,933 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement is derogatory and body-shaming, creating a hostile environment.
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:51,438 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:55:53,094 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and derogatory towards an individual's body, violating community standards for appropriate discourse.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:58:24,214 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:06,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:08,670 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 12:59:10,342 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello" is a simple greeting and does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:48,183 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting that does not contain any harmful, abusive, or inappropriate content.
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:49,452 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.
+2025-06-05 13:00:51,111 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hello guys" is a simple greeting that does not contain any harmful, offensive, or ambiguous content.

@@ -508,7 +508,7 @@ def display_analysis_results(user_input, results):
         'confidence': classification['confidence'],
         'action': recommendation['action'],
         'severity': recommendation['severity'],
-        'validated': validation_passed if st.session_state.use_validation else None
+        'validated': True if st.session_state.use_validation else False
     }
     
     st.session_state.results_history.append(history_entry)

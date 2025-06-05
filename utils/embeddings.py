@@ -1,4 +1,4 @@
-from openai import OpenAI
+from langchain_openai import AzureOpenAIEmbeddings
 import os
 import json
 import hashlib
@@ -43,8 +43,13 @@ class PolicyEmbeddings:
 
         # Initialize OpenAI client
         try:
-            self.client = OpenAI(
-                api_key=Config.OPENAI_API_KEY  # Updated to use standard OpenAI
+            self.client = AzureOpenAIEmbeddings(
+                openai_api_version=Config.DIAL_API_VERSION,
+                azure_deployment=Config.EMBEDDING_MODEL_NAME,
+                azure_endpoint=Config.DIAL_API_ENDPOINT,
+                api_key=Config.DIAL_API_KEY,
+                # Set the flag to False for models which do not support token ids in inputs
+                check_embedding_ctx_length=False
             )
             self.logger.info("Successfully initialized OpenAI client")
         except Exception as e:
@@ -278,13 +283,9 @@ class PolicyEmbeddings:
                 batch = texts[i:i + batch_size]
                 self.logger.debug(f"Processing batch {i//batch_size + 1}/{(len(texts) + batch_size - 1) // batch_size}")
                 
-                response = self.client.embeddings.create(
-                    input=batch,
-                    model="text-embedding-ada-002"
-                )
+                response = self.client.embed_query("".join(batch))
                 
-                batch_embeddings = [item.embedding for item in response.data]
-                all_embeddings.extend(batch_embeddings)
+                all_embeddings.extend(response)
             
             # Prepare points for Qdrant
             points = []
@@ -322,14 +323,11 @@ class PolicyEmbeddings:
         """Search for most relevant documents using Qdrant"""
         try:
             self.logger.debug(f"Searching for query: {query[:50]}...")
-            
+
             # Get query embedding from OpenAI
-            response = self.client.embeddings.create(
-                input=query,
-                model="text-embedding-ada-002"
-            )
-            query_embedding = response.data[0].embedding
-            
+            query_embedding = self.client.embed_query(query)
+            # query_embedding is a list of floats
+
             # Search using Qdrant
             search_results = self.qdrant_client.search(
                 collection_name=self.collection_name,
@@ -337,20 +335,20 @@ class PolicyEmbeddings:
                 limit=top_k,
                 with_payload=True
             )
-            
+
             results = []
             for i, result in enumerate(search_results):
                 results.append({
                     'content': result.payload['content'],
                     'source': result.payload['source'],
                     'chunk_id': result.payload['chunk_id'],
-                    'score': float(result.score),
+                    'score': round(float(result.score) * 100, 2),  # Match score as percentage
                     'rank': i + 1
                 })
-            
+
             self.logger.info(f"Found {len(results)} matching documents")
             return results
-            
+
         except Exception as e:
             self.logger.error(f"Search failed: {str(e)}")
             raise
@@ -380,14 +378,11 @@ class PolicyEmbeddings:
             
             # Generate embeddings for new documents
             texts = [doc['content'] for doc in new_docs]
-            response = self.client.embeddings.create(
-                input=texts,
-                model="text-embedding-ada-002"
-            )
+            embeddings = self.client.embed_query("".join(texts))
             
             # Prepare points for Qdrant
             points = []
-            for i, (doc, embedding_data) in enumerate(zip(new_docs, response.data)):
+            for i, (doc, embedding) in enumerate(zip(new_docs, embeddings)):
                 # Get next available point ID
                 existing_points = self.qdrant_client.scroll(
                     collection_name=self.collection_name,
@@ -399,7 +394,7 @@ class PolicyEmbeddings:
                 
                 point = PointStruct(
                     id=next_id + i,
-                    vector=embedding_data.embedding,
+                    vector=embedding,
                     payload={
                         'content': doc['content'],
                         'source': doc['source'],

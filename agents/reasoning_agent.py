@@ -11,7 +11,7 @@ class PolicyReasoningAgent:
         try:
             self.model = AzureChatOpenAI(
                 openai_api_version=Config.DIAL_API_VERSION,
-                azure_deployment=Config.MODEL_NAME,
+                azure_deployment=Config.PRIMARY_MODEL_NAME,
                 azure_endpoint=Config.DIAL_API_ENDPOINT,
                 api_key=Config.DIAL_API_KEY,
                 max_tokens=300,

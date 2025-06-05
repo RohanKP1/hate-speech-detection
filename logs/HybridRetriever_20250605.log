@@ -17,3 +17,37 @@
 2025-06-05 01:03:20,017 | INFO     | HybridRetriever | Retrieved 5 relevant policies
 2025-06-05 01:06:25,079 | INFO     | HybridRetriever | Retrieved 5 relevant policies
 2025-06-05 01:12:16,587 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:29:03,725 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:29:38,524 | ERROR    | HybridRetriever | Error retrieving policies: 'AzureOpenAIEmbeddings' object has no attribute 'embeddings'
+2025-06-05 12:31:43,887 | ERROR    | HybridRetriever | Error retrieving policies: 'AzureOpenAIEmbeddings' object has no attribute 'embeddings'
+2025-06-05 12:32:18,018 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:32:30,049 | ERROR    | HybridRetriever | Error retrieving policies: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-05 12:34:18,070 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:34:36,702 | ERROR    | HybridRetriever | Error retrieving policies: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-05 12:36:56,025 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:38:03,787 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:38:15,377 | ERROR    | HybridRetriever | Error retrieving policies: 'list' object has no attribute 'data'
+2025-06-05 12:43:48,554 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:44:04,345 | ERROR    | HybridRetriever | Error retrieving policies: 3 validation errors for SearchRequest
+vector.list[float]
+  Input should be a valid list [type=list_type, input_value=0.039652612060308456, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.NamedVector
+  Input should be a valid dictionary or instance of NamedVector [type=model_type, input_value=0.039652612060308456, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.NamedSparseVector
+  Input should be a valid dictionary or instance of NamedSparseVector [type=model_type, input_value=0.039652612060308456, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 12:46:01,581 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:46:16,689 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:48:37,985 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
+2025-06-05 12:48:50,557 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:50:07,690 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:52:25,574 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:53:53,096 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:54:30,760 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:55:15,806 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:56:11,351 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:58:27,346 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 12:59:28,919 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-05 13:01:08,636 | INFO     | HybridRetriever | Retrieved 5 relevant policies

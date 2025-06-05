@@ -24,7 +24,7 @@ class AudioTranscriptionAgent:
             with open(audio_file_path, "rb") as audio_file:
                 self.logger.debug(f"Sending transcription request for file: {audio_file_path}")
                 transcription = self.client.audio.transcriptions.create(
-                    model="gpt-4o-mini-transcribe",
+                    model=Config.AUDIO_MODEL_NAME,
                     file=audio_file,
                     response_format="text",
                     language="en"
