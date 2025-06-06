@@ -6,13 +6,12 @@ import wave
 import tempfile
 import os
 
+
 class AudioTranscriptionAgent:
     def __init__(self):
         self.logger = CustomLogger("AudioTranscriptionAgent")
         try:
-            self.client = OpenAI(
-                api_key=Config.OPENAI_API_KEY
-            )
+            self.client = OpenAI(api_key=Config.OPENAI_API_KEY)
             self.logger.info("Successfully initialized OpenAI client")
         except Exception as e:
             self.logger.error(f"Failed to initialize OpenAI client: {str(e)}")
@@ -22,18 +21,20 @@ class AudioTranscriptionAgent:
         """Transcribe audio file using OpenAI's transcription model"""
         try:
             with open(audio_file_path, "rb") as audio_file:
-                self.logger.debug(f"Sending transcription request for file: {audio_file_path}")
+                self.logger.debug(
+                    f"Sending transcription request for file: {audio_file_path}"
+                )
                 transcription = self.client.audio.transcriptions.create(
                     model=Config.AUDIO_MODEL_NAME,
                     file=audio_file,
                     response_format="text",
-                    language="en"
+                    language="en",
                 )
                 self.logger.info("Audio transcription completed successfully")
                 return transcription
         except Exception as e:
             self.logger.error(f"Failed to transcribe audio: {str(e)}")
-            raise       
+            raise
 
     # Create transcribe_real_time_audio method using pyaudio and OpenAI's real-time transcription capabilities
     def transcribe_real_time_audio(self):
@@ -47,11 +48,13 @@ class AudioTranscriptionAgent:
 
         try:
             p = pyaudio.PyAudio()
-            stream = p.open(format=FORMAT,
-                          channels=CHANNELS,
-                          rate=RATE,
-                          input=True,
-                          frames_per_buffer=CHUNK)
+            stream = p.open(
+                format=FORMAT,
+                channels=CHANNELS,
+                rate=RATE,
+                input=True,
+                frames_per_buffer=CHUNK,
+            )
 
             self.logger.info("* Recording started")
             frames = []
@@ -67,12 +70,12 @@ class AudioTranscriptionAgent:
             p.terminate()
 
             # Save the recorded data as a WAV file
-            with tempfile.NamedTemporaryFile(delete=False, suffix='.wav') as temp_audio:
-                wf = wave.open(temp_audio.name, 'wb')
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as temp_audio:
+                wf = wave.open(temp_audio.name, "wb")
                 wf.setnchannels(CHANNELS)
                 wf.setsampwidth(p.get_sample_size(FORMAT))
                 wf.setframerate(RATE)
-                wf.writeframes(b''.join(frames))
+                wf.writeframes(b"".join(frames))
                 wf.close()
 
                 # Transcribe the temporary audio file
@@ -83,9 +86,11 @@ class AudioTranscriptionAgent:
             return transcription
 
         except Exception as e:
-            self.logger.error(f"Failed to capture or transcribe real-time audio: {str(e)}")
+            self.logger.error(
+                f"Failed to capture or transcribe real-time audio: {str(e)}"
+            )
             raise
-          
+
 
 def test():
     agent = AudioTranscriptionAgent()

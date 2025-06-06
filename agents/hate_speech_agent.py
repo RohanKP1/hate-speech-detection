@@ -8,8 +8,8 @@ from utils.custom_logger import CustomLogger
 class HateSpeechDetectionAgent:
     def __init__(self):
         self.logger = CustomLogger("HateSpeechAgent")
-        self.categories = ['Hate', 'Toxic', 'Offensive', 'Neutral', 'Ambiguous']
-        
+        self.categories = ["Hate", "Toxic", "Offensive", "Neutral", "Ambiguous"]
+
         try:
             self.model = AzureChatOpenAI(
                 openai_api_version=Config.DIAL_API_VERSION,
@@ -17,9 +17,11 @@ class HateSpeechDetectionAgent:
                 azure_endpoint=Config.DIAL_API_ENDPOINT,
                 api_key=Config.DIAL_API_KEY,
                 max_tokens=150,
-                temperature=0.1
+                temperature=0.1,
             )
-            self.logger.info("Successfully initialized Azure OpenAI client with LangChain")
+            self.logger.info(
+                "Successfully initialized Azure OpenAI client with LangChain"
+            )
         except Exception as e:
             self.logger.error(f"Failed to initialize Azure OpenAI client: {str(e)}")
             raise
@@ -43,45 +45,53 @@ class HateSpeechDetectionAgent:
             Brief Reason: [one sentence explanation]
             """
 
-            self.logger.debug(f"Sending classification request for text: {text[:50]}...")
+            self.logger.debug(
+                f"Sending classification request for text: {text[:50]}..."
+            )
 
             messages = [
-                SystemMessage(content="You are an expert content moderation specialist."),
-                HumanMessage(content=prompt)
+                SystemMessage(
+                    content="You are an expert content moderation specialist."
+                ),
+                HumanMessage(content=prompt),
             ]
-            
+
             response = self.model.invoke(messages)
-            
+
             result = response.content
             if result is None:
                 return {
-                    'classification': 'Error',
-                    'confidence': 'low',
-                    'reason': 'No response content received'
+                    "classification": "Error",
+                    "confidence": "low",
+                    "reason": "No response content received",
                 }
-            
+
             self.logger.info(f"Successfully classified text with response: {result}")
             return self._parse_classification_response(result)
 
         except Exception as e:
             self.logger.error(f"Classification failed: {str(e)}")
             return {
-                'classification': 'Error',
-                'confidence': 'low',
-                'reason': f'Classification failed: {str(e)}'
+                "classification": "Error",
+                "confidence": "low",
+                "reason": f"Classification failed: {str(e)}",
             }
 
     def _parse_classification_response(self, response: str) -> Dict[str, str]:
         """Parse the OpenAI response into structured format"""
-        lines = response.strip().split('\n')
-        result = {'classification': 'Ambiguous', 'confidence': 'low', 'reason': 'Parse error'}
+        lines = response.strip().split("\n")
+        result = {
+            "classification": "Ambiguous",
+            "confidence": "low",
+            "reason": "Parse error",
+        }
 
         for line in lines:
-            if line.startswith('Classification:'):
-                result['classification'] = line.split(':', 1)[1].strip()
-            elif line.startswith('Confidence:'):
-                result['confidence'] = line.split(':', 1)[1].strip()
-            elif line.startswith('Brief Reason:'):
-                result['reason'] = line.split(':', 1)[1].strip()
+            if line.startswith("Classification:"):
+                result["classification"] = line.split(":", 1)[1].strip()
+            elif line.startswith("Confidence:"):
+                result["confidence"] = line.split(":", 1)[1].strip()
+            elif line.startswith("Brief Reason:"):
+                result["reason"] = line.split(":", 1)[1].strip()
 
         return result

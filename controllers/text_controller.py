@@ -6,6 +6,7 @@ from agents.action_agent import ActionRecommenderAgent
 from agents.validation_agent import ValidationAgent
 from utils.custom_logger import CustomLogger
 
+
 class TextController:
     def __init__(self, policy_docs):
         self.logger = CustomLogger("TextController")
@@ -48,10 +49,9 @@ class TextController:
             self.logger.info(f"Policy reasoning result: {reasoning_result}")
 
             # Step 4: Recommend action
-            action = self.action_agent.recommend_action({
-                "classification": classification,
-                "confidence": confidence
-            })
+            action = self.action_agent.recommend_action(
+                {"classification": classification, "confidence": confidence}
+            )
             self.logger.info(f"Recommended action: {action}")
 
             # Step 5: Return all results
@@ -59,7 +59,7 @@ class TextController:
                 "hate_speech": hate_speech_result,
                 "policies": policies,
                 "reasoning": reasoning_result,
-                "action": action
+                "action": action,
             }
 
         except Exception as e:
@@ -77,4 +77,4 @@ class TextController:
         except Exception as e:
             error_message = f"An error occurred during validation: {str(e)}"
             self.error_handler.handle_error(RuntimeError(error_message))
-            return {"error": error_message}    
+            return {"error": error_message}

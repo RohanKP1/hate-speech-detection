@@ -2,6 +2,7 @@ from controllers.text_controller import TextController
 from agents.audio_agent import AudioTranscriptionAgent
 from utils.custom_logger import CustomLogger
 
+
 class AudioController:
     def __init__(self, policy_docs=None):
         self.logger = CustomLogger("AudioController")

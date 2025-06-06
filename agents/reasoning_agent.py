@@ -15,17 +15,18 @@ class PolicyReasoningAgent:
                 azure_endpoint=Config.DIAL_API_ENDPOINT,
                 api_key=Config.DIAL_API_KEY,
                 max_tokens=300,
-                temperature=0.2
+                temperature=0.2,
             )
-            self.logger.info("Successfully initialized Azure OpenAI client with LangChain")
+            self.logger.info(
+                "Successfully initialized Azure OpenAI client with LangChain"
+            )
         except Exception as e:
             self.logger.error(f"Failed to initialize Azure OpenAI client: {str(e)}")
             raise
 
-    def generate_explanation(self,
-                           text: str,
-                           classification: Dict[str, str],
-                           retrieved_policies: List[Dict]) -> str:
+    def generate_explanation(
+        self, text: str, classification: Dict[str, str], retrieved_policies: List[Dict]
+    ) -> str:
         """Generate detailed explanation for the classification decision"""
         try:
             # Format retrieved policies for the prompt
@@ -54,12 +55,14 @@ class PolicyReasoningAgent:
             self.logger.debug(f"Sending explanation request for text: {text[:50]}...")
 
             messages = [
-                SystemMessage(content="You are an expert policy analyst specializing in content moderation and hate speech detection."),
-                HumanMessage(content=prompt)
+                SystemMessage(
+                    content="You are an expert policy analyst specializing in content moderation and hate speech detection."
+                ),
+                HumanMessage(content=prompt),
             ]
-            
+
             response = self.model.invoke(messages)
-            
+
             result = response.content
             self.logger.info("Successfully generated explanation")
             return result.strip() if result else ""
@@ -76,7 +79,9 @@ class PolicyReasoningAgent:
 
         formatted = ""
         for i, policy in enumerate(policies, 1):
-            formatted += f"\n{i}. {policy['source']} (Relevance: {policy['relevance_score']}):\n"
+            formatted += (
+                f"\n{i}. {policy['source']} (Relevance: {policy['relevance_score']}):\n"
+            )
             formatted += f"   {policy['content']}\n"
 
         return formatted

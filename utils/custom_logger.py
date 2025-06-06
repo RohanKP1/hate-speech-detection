@@ -7,18 +7,19 @@ from colorama import Fore, Style, init
 # Initialize colorama
 init(autoreset=True)
 
+
 class CustomLogger:
     """
     Custom logger class that provides colored console output and clean log files
     """
-    
+
     # Color mapping for different log levels
     COLORS = {
-        'DEBUG': Fore.CYAN,
-        'INFO': Fore.GREEN,
-        'WARNING': Fore.YELLOW,
-        'ERROR': Fore.RED,
-        'CRITICAL': Fore.RED + Style.BRIGHT
+        "DEBUG": Fore.CYAN,
+        "INFO": Fore.GREEN,
+        "WARNING": Fore.YELLOW,
+        "ERROR": Fore.RED,
+        "CRITICAL": Fore.RED + Style.BRIGHT,
     }
 
     def __init__(
@@ -26,11 +27,11 @@ class CustomLogger:
         name: str,
         log_file: Optional[str] = None,
         level: int = logging.INFO,
-        log_format: Optional[str] = None
+        log_format: Optional[str] = None,
     ):
         """
         Initialize the custom logger
-        
+
         Args:
             name (str): Logger name
             log_file (str, optional): Path to log file
@@ -41,12 +42,14 @@ class CustomLogger:
         self.logger.setLevel(level)
 
         if not log_file:
-            log_dir = 'logs'
+            log_dir = "logs"
             os.makedirs(log_dir, exist_ok=True)
-            log_file = os.path.join(log_dir, f'{name}_{datetime.now().strftime("%Y%m%d")}.log')
+            log_file = os.path.join(
+                log_dir, f'{name}_{datetime.now().strftime("%Y%m%d")}.log'
+            )
 
         if not log_format:
-            log_format = '%(asctime)s | %(levelname)-8s | %(name)s | %(message)s'
+            log_format = "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
 
         # File handler (without color codes)
         file_handler = logging.FileHandler(log_file)
@@ -66,13 +69,14 @@ class CustomLogger:
         """
         Custom formatter class to add colors to console output
         """
+
         def format(self, record):
             # Save original values
             orig_levelname = record.levelname
             orig_msg = record.msg
 
             # Add color to level name and message
-            color = CustomLogger.COLORS.get(record.levelname, '')
+            color = CustomLogger.COLORS.get(record.levelname, "")
             record.levelname = f"{color}{record.levelname}{Style.RESET_ALL}"
             record.msg = f"{color}{record.msg}{Style.RESET_ALL}"
 
@@ -82,7 +86,7 @@ class CustomLogger:
             # Restore original values
             record.levelname = orig_levelname
             record.msg = orig_msg
-            
+
             return result
 
     def debug(self, message: str) -> None:
@@ -99,6 +103,7 @@ class CustomLogger:
 
     def critical(self, message: str) -> None:
         self.logger.critical(message)
+
 
 # Usage example
 if __name__ == "__main__":
