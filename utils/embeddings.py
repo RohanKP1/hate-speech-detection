@@ -311,7 +311,8 @@ class PolicyEmbeddings:
                     f"Processing batch {i//batch_size + 1}/{(len(texts) + batch_size - 1) // batch_size}"
                 )
 
-                response = self.client.embed_query("".join(batch))
+                # Use embed_documents for batch embedding (returns list of vectors)
+                response = self.client.embed_documents(batch)
 
                 all_embeddings.extend(response)
 

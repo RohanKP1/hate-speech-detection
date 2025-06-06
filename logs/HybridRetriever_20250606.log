@@ -246,3 +246,56 @@
 2025-06-06 17:08:26,553 | INFO     | HybridRetriever | Retrieved 5 relevant policies
 2025-06-06 17:08:26,553 | INFO     | HybridRetriever | Retrieved 5 relevant policies
 2025-06-06 17:08:26,553 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 17:34:29,976 | ERROR    | HybridRetriever | Error initializing embeddings: 6 validation errors for PointStruct
+vector.list[float]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.list[list[float]]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.dict[str,union[list[float],SparseVector,list[list[float]],Document,Image,InferenceObject]]
+  Input should be a valid dictionary [type=dict_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+vector.Document
+  Input should be a valid dictionary or instance of Document [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.Image
+  Input should be a valid dictionary or instance of Image [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.InferenceObject
+  Input should be a valid dictionary or instance of InferenceObject [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-06 17:35:44,219 | ERROR    | HybridRetriever | Error initializing embeddings: 6 validation errors for PointStruct
+vector.list[float]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.list[list[float]]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.dict[str,union[list[float],SparseVector,list[list[float]],Document,Image,InferenceObject]]
+  Input should be a valid dictionary [type=dict_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+vector.Document
+  Input should be a valid dictionary or instance of Document [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.Image
+  Input should be a valid dictionary or instance of Image [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.InferenceObject
+  Input should be a valid dictionary or instance of InferenceObject [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-06 17:38:25,702 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:38:39,342 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:38:39,342 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:38:53,144 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:38:53,144 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:38:53,144 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:11,242 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:27,145 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:27,145 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:42,021 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:42,021 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:39:42,021 | INFO     | HybridRetriever | Loaded 10 document chunks from data/policy_docs
+2025-06-06 17:40:58,906 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 17:40:58,906 | INFO     | HybridRetriever | Retrieved 5 relevant policies
+2025-06-06 17:40:58,906 | INFO     | HybridRetriever | Retrieved 5 relevant policies

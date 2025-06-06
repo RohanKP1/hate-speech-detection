@@ -900,3 +900,158 @@
 2025-06-06 17:08:26,552 | INFO     | PolicyEmbeddings | Found 5 matching documents
 2025-06-06 17:08:26,552 | INFO     | PolicyEmbeddings | Found 5 matching documents
 2025-06-06 17:08:26,552 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:34:15,062 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:34:18,374 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:34:18,374 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:34:20,422 | INFO     | PolicyEmbeddings | Policy changes detected or no existing data, processing documents
+2025-06-06 17:34:22,491 | INFO     | PolicyEmbeddings | Cleared existing collection: policy_documents
+2025-06-06 17:34:24,548 | INFO     | PolicyEmbeddings | Creating collection: policy_documents
+2025-06-06 17:34:26,750 | INFO     | PolicyEmbeddings | Collection 'policy_documents' created successfully
+2025-06-06 17:34:26,752 | INFO     | PolicyEmbeddings | Loaded 10 document chunks
+2025-06-06 17:34:28,792 | INFO     | PolicyEmbeddings | Loaded 0 documents from Qdrant
+2025-06-06 17:34:28,792 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-06-06 17:34:29,975 | ERROR    | PolicyEmbeddings | Failed to create embeddings: 6 validation errors for PointStruct
+vector.list[float]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.list[list[float]]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.dict[str,union[list[float],SparseVector,list[list[float]],Document,Image,InferenceObject]]
+  Input should be a valid dictionary [type=dict_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+vector.Document
+  Input should be a valid dictionary or instance of Document [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.Image
+  Input should be a valid dictionary or instance of Image [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.InferenceObject
+  Input should be a valid dictionary or instance of InferenceObject [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-06 17:35:27,199 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:35:30,568 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:35:30,569 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:35:32,617 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:35:34,680 | INFO     | PolicyEmbeddings | Loaded 0 documents from Qdrant
+2025-06-06 17:35:34,681 | WARNING  | PolicyEmbeddings | No documents found in Qdrant, will process files
+2025-06-06 17:35:34,681 | INFO     | PolicyEmbeddings | Policy changes detected or no existing data, processing documents
+2025-06-06 17:35:36,753 | INFO     | PolicyEmbeddings | Cleared existing collection: policy_documents
+2025-06-06 17:35:38,808 | INFO     | PolicyEmbeddings | Creating collection: policy_documents
+2025-06-06 17:35:40,975 | INFO     | PolicyEmbeddings | Collection 'policy_documents' created successfully
+2025-06-06 17:35:40,977 | INFO     | PolicyEmbeddings | Loaded 10 document chunks
+2025-06-06 17:35:43,009 | INFO     | PolicyEmbeddings | Loaded 0 documents from Qdrant
+2025-06-06 17:35:43,010 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-06-06 17:35:44,218 | ERROR    | PolicyEmbeddings | Failed to create embeddings: 6 validation errors for PointStruct
+vector.list[float]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.list[list[float]]
+  Input should be a valid list [type=list_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+vector.dict[str,union[list[float],SparseVector,list[list[float]],Document,Image,InferenceObject]]
+  Input should be a valid dictionary [type=dict_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+vector.Document
+  Input should be a valid dictionary or instance of Document [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.Image
+  Input should be a valid dictionary or instance of Image [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+vector.InferenceObject
+  Input should be a valid dictionary or instance of InferenceObject [type=model_type, input_value=0.0503668487071991, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-06 17:38:01,706 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:04,729 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:04,730 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:06,793 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:08,853 | INFO     | PolicyEmbeddings | Loaded 0 documents from Qdrant
+2025-06-06 17:38:08,854 | WARNING  | PolicyEmbeddings | No documents found in Qdrant, will process files
+2025-06-06 17:38:08,854 | INFO     | PolicyEmbeddings | Policy changes detected or no existing data, processing documents
+2025-06-06 17:38:10,912 | INFO     | PolicyEmbeddings | Cleared existing collection: policy_documents
+2025-06-06 17:38:12,969 | INFO     | PolicyEmbeddings | Creating collection: policy_documents
+2025-06-06 17:38:15,148 | INFO     | PolicyEmbeddings | Collection 'policy_documents' created successfully
+2025-06-06 17:38:15,149 | INFO     | PolicyEmbeddings | Loaded 10 document chunks
+2025-06-06 17:38:17,210 | INFO     | PolicyEmbeddings | Loaded 0 documents from Qdrant
+2025-06-06 17:38:17,210 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-06-06 17:38:25,701 | INFO     | PolicyEmbeddings | Created and stored 10 embeddings in Qdrant
+2025-06-06 17:38:30,346 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:30,346 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:33,200 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:33,200 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:33,201 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:33,201 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:35,230 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:35,230 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:37,283 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:37,283 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:39,340 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:39,340 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:39,341 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:38:39,341 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:38:44,163 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:44,163 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:44,163 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:38:46,935 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:46,935 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:46,935 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:38:46,936 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:46,936 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:46,936 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:38:49,012 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:49,012 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:49,012 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:38:51,063 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:51,063 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:51,063 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:53,141 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:53,141 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:53,141 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:38:53,143 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:38:53,143 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:38:53,143 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:01,778 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:05,090 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:05,090 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:07,135 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:09,164 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:11,241 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:11,242 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:18,163 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:18,163 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:21,014 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:21,014 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:21,015 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:21,015 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:23,056 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:23,056 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:25,097 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:25,097 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:27,143 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:27,143 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:27,144 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:27,144 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:32,687 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:32,687 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:32,687 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 17:39:35,883 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:35,883 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:35,883 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 17:39:35,884 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:35,884 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:35,884 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 17:39:37,935 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:37,935 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:37,935 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 17:39:39,977 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:39,977 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:39,977 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:42,019 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:42,019 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:42,019 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 17:39:42,020 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:42,020 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:39:42,020 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents

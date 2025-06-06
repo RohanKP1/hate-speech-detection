@@ -104,3 +104,5 @@
 2025-06-06 17:08:12,718 | INFO     | RedditScrapingAgent | Analyzing comment 3/4 (ID: mvs31fa)
 2025-06-06 17:08:21,907 | INFO     | RedditScrapingAgent | Analyzing comment 4/4 (ID: mvs7ba8)
 2025-06-06 17:08:34,261 | INFO     | RedditScrapingAgent | Completed analysis of all comments.
+2025-06-06 17:38:53,168 | INFO     | RedditScrapingAgent | Initialized RedditScrapingAgent with provided credentials and TextController.
+2025-06-06 17:39:42,045 | INFO     | RedditScrapingAgent | Initialized RedditScrapingAgent with provided credentials and TextController.

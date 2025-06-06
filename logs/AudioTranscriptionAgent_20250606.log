@@ -34,3 +34,5 @@
 2025-06-06 16:12:02,700 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
 2025-06-06 17:00:04,616 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
 2025-06-06 17:05:45,272 | INFO     | AudioTranscriptionAgent | Audio transcription completed successfully
+2025-06-06 17:38:26,107 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client
+2025-06-06 17:39:11,732 | INFO     | AudioTranscriptionAgent | Successfully initialized OpenAI client

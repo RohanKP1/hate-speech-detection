@@ -1400,3 +1400,26 @@ Brief Reason: The text "Interested" does not contain any harmful, abusive, or in
 2025-06-06 17:08:23,494 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
 Confidence: High  
 Brief Reason: The text "Interested" does not contain any harmful, abusive, or inappropriate content and does not violate community standards.
+2025-06-06 17:34:11,178 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:35:23,244 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:37:58,001 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:26,828 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:26,828 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:40,215 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:40,215 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:40,215 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:57,866 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:12,945 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:12,945 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:28,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:28,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:28,656 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:40:55,802 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase contains abusive language that is likely to create a hostile environment.
+2025-06-06 17:40:55,802 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase contains abusive language that is likely to create a hostile environment.
+2025-06-06 17:40:55,802 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase contains abusive language that is likely to create a hostile environment.

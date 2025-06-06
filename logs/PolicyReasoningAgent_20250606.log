@@ -246,3 +246,20 @@
 2025-06-06 17:08:34,256 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-06 17:08:34,256 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-06 17:08:34,256 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:34:12,127 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:35:24,215 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:37:58,842 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:27,596 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:27,596 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:41,154 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:41,154 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:41,154 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:38:58,708 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:14,749 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:14,749 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:29,748 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:29,748 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:39:29,748 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
