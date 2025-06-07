@@ -9,9 +9,6 @@ from qdrant_client.models import (
     VectorParams,
     Distance,
     PointStruct,
-    Filter,
-    FieldCondition,
-    MatchValue,
 )
 from core.config import Config
 from utils.custom_logger import CustomLogger
@@ -62,7 +59,6 @@ class PolicyEmbeddings:
                 azure_deployment=Config.EMBEDDING_MODEL_NAME,
                 azure_endpoint=Config.DIAL_API_ENDPOINT,
                 api_key=Config.DIAL_API_KEY,
-                # Set the flag to False for models which do not support token ids in inputs
                 check_embedding_ctx_length=False,
             )
             self.logger.info("Successfully initialized OpenAI client")
@@ -235,7 +231,7 @@ class PolicyEmbeddings:
             # Recreate collection
             self._ensure_collection_exists()
 
-            # Load and process documents
+            # Load and process documents (NO CHUNKING)
             documents = []
             doc_counter = 0
 
@@ -245,46 +241,24 @@ class PolicyEmbeddings:
                     with open(filepath, "r", encoding="utf-8") as f:
                         content = f.read().strip()
                         content_hash = self._calculate_content_hash(content)
-
-                        chunks = self._chunk_text(content, max_length=1000)
-                        for i, chunk in enumerate(chunks):
-                            documents.append(
-                                {
-                                    "content": chunk,
-                                    "source": filename,
-                                    "chunk_id": i,
-                                    "content_hash": content_hash,
-                                    "doc_id": doc_counter,
-                                }
-                            )
-                            doc_counter += 1
+                        documents.append(
+                            {
+                                "content": content,
+                                "source": filename,
+                                "chunk_id": 0,
+                                "content_hash": content_hash,
+                                "doc_id": doc_counter,
+                            }
+                        )
+                        doc_counter += 1
 
             self.documents = documents
-            self.logger.info(f"Loaded {len(documents)} document chunks")
+            self.logger.info(f"Loaded {len(documents)} policy documents (no chunking)")
 
             # Update version tracking
             self._update_policy_version(docs_path, current_hash)
 
         return self.documents
-
-    def _chunk_text(self, text: str, max_length: int = 1000) -> List[str]:
-        """Split text into smaller chunks"""
-        sentences = text.split(". ")
-        chunks = []
-        current_chunk = ""
-
-        for sentence in sentences:
-            if len(current_chunk + sentence) < max_length:
-                current_chunk += sentence + ". "
-            else:
-                if current_chunk:
-                    chunks.append(current_chunk.strip())
-                current_chunk = sentence + ". "
-
-        if current_chunk:
-            chunks.append(current_chunk.strip())
-
-        return chunks
 
     def create_embeddings(self):
         """Create embeddings for all documents using OpenAI and store in Qdrant"""
@@ -354,7 +328,6 @@ class PolicyEmbeddings:
 
             # Get query embedding from OpenAI
             query_embedding = self.client.embed_query(query)
-            # query_embedding is a list of floats
 
             # Search using Qdrant
             search_results = self.qdrant_client.search(
@@ -371,9 +344,7 @@ class PolicyEmbeddings:
                         "content": result.payload["content"],
                         "source": result.payload["source"],
                         "chunk_id": result.payload["chunk_id"],
-                        "score": round(
-                            float(result.score) * 100, 2
-                        ),  # Match score as percentage
+                        "score": round(float(result.score) * 100, 2),
                         "rank": i + 1,
                     }
                 )
@@ -383,107 +354,6 @@ class PolicyEmbeddings:
 
         except Exception as e:
             self.logger.error(f"Search failed: {str(e)}")
-            raise
-
-    def add_document(
-        self, content: str, source: str, save_immediately: bool = True
-    ) -> int:
-        """Add a single document and update the Qdrant collection"""
-        try:
-            self.logger.info(f"Adding new document from {source}")
-
-            # Process the new document
-            content_hash = self._calculate_content_hash(content)
-            chunks = self._chunk_text(content, max_length=1000)
-
-            # Get current max doc_id
-            max_doc_id = max([doc["doc_id"] for doc in self.documents] + [-1])
-
-            new_docs = []
-            for i, chunk in enumerate(chunks):
-                new_doc = {
-                    "content": chunk,
-                    "source": source,
-                    "chunk_id": i,
-                    "content_hash": content_hash,
-                    "doc_id": max_doc_id + 1 + i,
-                }
-                new_docs.append(new_doc)
-
-            # Generate embeddings for new documents
-            texts = [doc["content"] for doc in new_docs]
-            embeddings = self.client.embed_query("".join(texts))
-
-            # Prepare points for Qdrant
-            points = []
-            for i, (doc, embedding) in enumerate(zip(new_docs, embeddings)):
-                # Get next available point ID
-                existing_points = self.qdrant_client.scroll(
-                    collection_name=self.collection_name,
-                    limit=1,
-                    with_payload=False,
-                    with_vectors=False,
-                )
-                next_id = len(existing_points[0]) if existing_points[0] else 0
-
-                point = PointStruct(
-                    id=next_id + i,
-                    vector=embedding,
-                    payload={
-                        "content": doc["content"],
-                        "source": doc["source"],
-                        "chunk_id": doc["chunk_id"],
-                        "content_hash": doc["content_hash"],
-                        "doc_id": doc["doc_id"],
-                    },
-                )
-                points.append(point)
-
-            # Add to Qdrant
-            self.qdrant_client.upsert(
-                collection_name=self.collection_name, points=points
-            )
-
-            # Update local documents list
-            self.documents.extend(new_docs)
-
-            self.logger.info(f"Added {len(new_docs)} chunks from {source}")
-            return len(new_docs)
-
-        except Exception as e:
-            self.logger.error(f"Failed to add document: {str(e)}")
-            raise
-
-    def remove_documents_by_source(
-        self, source: str, save_immediately: bool = True
-    ) -> int:
-        """Remove all documents from a specific source"""
-        try:
-            self.logger.info(f"Removing documents from source: {source}")
-
-            # Find documents to remove
-            docs_to_remove = [doc for doc in self.documents if doc["source"] == source]
-
-            if not docs_to_remove:
-                self.logger.warning(f"No documents found for source: {source}")
-                return 0
-
-            # Remove from Qdrant using filter
-            self.qdrant_client.delete(
-                collection_name=self.collection_name,
-                points_selector=Filter(
-                    must=[FieldCondition(key="source", match=MatchValue(value=source))]
-                ),
-            )
-
-            # Update local documents list
-            self.documents = [doc for doc in self.documents if doc["source"] != source]
-
-            self.logger.info(f"Removed {len(docs_to_remove)} chunks from {source}")
-            return len(docs_to_remove)
-
-        except Exception as e:
-            self.logger.error(f"Failed to remove documents: {str(e)}")
             raise
 
     def force_refresh(self, docs_path: str):
@@ -573,10 +443,8 @@ class PolicyEmbeddings:
     def optimize_index(self):
         """Optimize the Qdrant collection for better search performance"""
         try:
-            # Qdrant automatically optimizes its indexes, but we can trigger optimization
             self.logger.info("Triggering Qdrant collection optimization")
 
-            # Get collection info
             collection_info = self.qdrant_client.get_collection(self.collection_name)
             current_size = collection_info.points_count
 
@@ -584,10 +452,6 @@ class PolicyEmbeddings:
                 self.logger.info(
                     f"Collection has {current_size} points, optimization may improve performance"
                 )
-
-                # For large collections, you might want to configure HNSW parameters
-                # This would require recreating the collection with optimized settings
-                # For now, we'll just log the recommendation
                 self.logger.info(
                     "Consider configuring HNSW parameters for large collections"
                 )
@@ -604,15 +468,12 @@ class PolicyEmbeddings:
     def health_check(self) -> Dict[str, Any]:
         """Perform health check on Qdrant connection and collection"""
         try:
-            # Check Qdrant connection
             collections = self.qdrant_client.get_collections()
             qdrant_healthy = True
 
-            # Check if our collection exists
             collection_names = [c.name for c in collections.collections]
             collection_exists = self.collection_name in collection_names
 
-            # Get collection stats if it exists
             collection_stats = None
             if collection_exists:
                 collection_info = self.qdrant_client.get_collection(
