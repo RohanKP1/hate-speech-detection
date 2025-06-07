@@ -263,3 +263,36 @@
 2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
 2025-06-06 17:41:04,318 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:47:39,519 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:47:39,519 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:47:39,519 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:48:10,172 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:48:10,172 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:48:10,172 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:59:50,325 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:59:50,325 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 17:59:50,325 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:52:42,813 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:52:58,446 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:52:58,446 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:53:14,018 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:53:14,018 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:53:14,018 | INFO     | PolicyReasoningAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-06 23:57:55,329 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:57:55,329 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:57:55,329 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:58:50,525 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:58:50,525 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-06 23:58:50,525 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:00:13,571 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:00:13,571 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:00:13,571 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:02:15,802 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:02:15,802 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:02:15,802 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:11:11,905 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:11:11,905 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:11:11,905 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:18:07,116 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:18:07,116 | INFO     | PolicyReasoningAgent | Successfully generated explanation
+2025-06-07 00:18:07,116 | INFO     | PolicyReasoningAgent | Successfully generated explanation

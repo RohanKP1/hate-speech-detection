@@ -43,3 +43,13 @@
 
 2025-06-06 17:38:39,376 | INFO     | AudioController | AudioController initialized with all agents
 2025-06-06 17:39:27,180 | INFO     | AudioController | AudioController initialized with all agents
+2025-06-06 17:47:58,955 | INFO     | AudioController | Transcribing audio file: C:\Users\RohanM\AppData\Local\Temp\tmp9eb5wnepsample-0.mp3
+2025-06-06 17:48:01,292 | INFO     | AudioController | Transcription result: Perhaps he made up to the party afterwards and took her and his heart at end continued. It was not fear eyes set it over her. Edmund
+
+2025-06-06 17:49:13,610 | INFO     | AudioController | Transcribing audio file: C:\Users\RohanM\AppData\Local\Temp\tmp8j1hncrksample-0.mp3
+2025-06-06 17:49:15,910 | INFO     | AudioController | Transcription result: Perhaps he made up to the party afterwards, and took her and his heart at end, continued. It was not fair eyes set it over her. Edmund
+
+2025-06-06 23:53:11,248 | INFO     | AudioController | AudioController initialized with all agents
+2025-06-06 23:58:37,029 | INFO     | AudioController | Transcribing audio file: C:\Users\RohanM\AppData\Local\Temp\tmphomf4iy1sample-0.mp3
+2025-06-06 23:58:39,670 | INFO     | AudioController | Transcription result: Perhaps he made up to the party afterwards and took her and his heart at end continued. It was not fair eyes set it over her. Edmund
+

@@ -236,3 +236,57 @@ Brief Reason: "hello bachoo" is a greeting that does not violate any policies or
 2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
 2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
 2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 23:52:55,742 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:11,247 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:11,247 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored

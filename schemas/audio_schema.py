@@ -7,7 +7,9 @@ class AudioAnalysisResponse(BaseModel):
     policies: Any
     reasoning: str
     action: Dict[str, Any]
+    transcription: str
 
 
 class AudioValidationResponse(BaseModel):
     validation: Dict[str, Any]
+    transcription: str

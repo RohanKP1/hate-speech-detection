@@ -1055,3 +1055,72 @@ vector.InferenceObject
 2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents
 2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents
 2025-06-06 17:40:58,905 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:47:34,424 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:47:34,424 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:47:34,424 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:48:06,264 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:48:06,264 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:48:06,264 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:59:46,389 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:59:46,389 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 17:59:46,389 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:52:46,086 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:52:49,525 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:52:49,526 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:52:51,602 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:52:53,661 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:52:55,691 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:52:55,691 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:53:01,624 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:53:01,624 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:53:05,102 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:53:05,102 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:53:05,103 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:53:05,103 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:53:07,132 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:53:07,132 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:53:09,171 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:09,171 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:11,206 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:11,206 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:11,207 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:53:11,207 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:53:17,620 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:53:17,620 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:53:17,620 | INFO     | PolicyEmbeddings | Successfully connected to Qdrant at localhost:6333
+2025-06-06 23:53:21,229 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:53:21,229 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:53:21,229 | INFO     | PolicyEmbeddings | Successfully initialized OpenAI client
+2025-06-06 23:53:21,230 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:53:21,230 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:53:21,230 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-06-06 23:53:23,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:53:23,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:53:23,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing documents
+2025-06-06 23:53:25,337 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:25,337 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:25,337 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:27,386 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:27,386 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:27,386 | INFO     | PolicyEmbeddings | Loaded 10 documents from Qdrant
+2025-06-06 23:53:27,387 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:53:27,387 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:53:27,387 | INFO     | PolicyEmbeddings | Embeddings already exist in Qdrant
+2025-06-06 23:57:50,661 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:57:50,661 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:57:50,661 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:58:44,681 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:58:44,681 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-06 23:58:44,681 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:00:09,183 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:00:09,183 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:00:09,183 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:02:08,454 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:02:08,454 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:02:08,454 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:11:04,999 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:11:04,999 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:11:04,999 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:18:02,663 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:18:02,663 | INFO     | PolicyEmbeddings | Found 5 matching documents
+2025-06-07 00:18:02,663 | INFO     | PolicyEmbeddings | Found 5 matching documents

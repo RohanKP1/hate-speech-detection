@@ -27,4 +27,12 @@ class AudioController:
         transcription = self.transcribe_audio(audio_file)
         if isinstance(transcription, dict):
             return transcription
-        return self.text_controller.analyze_text(transcription)
+        analysis_result = self.text_controller.analyze_text(transcription)
+        # Add your analysis logic here
+        return {
+            "hate_speech": analysis_result.get("hate_speech"),
+            "policies": analysis_result.get("policies"),
+            "reasoning": analysis_result.get("reasoning"),
+            "action": analysis_result.get("action"),
+            "transcription": transcription,  # Ensure this is present
+        }

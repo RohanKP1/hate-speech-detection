@@ -20,7 +20,13 @@ async def analyze_audio(file: UploadFile = File(...)):
         result = audio_controller.analyze_audio(tmp_path)
         if "error" in result:
             raise HTTPException(status_code=400, detail=result["error"])
-        return result
+        return {
+            "hate_speech": result.get("hate_speech", {}),
+            "policies": result.get("policies", {}),
+            "reasoning": result.get("reasoning", ""),
+            "action": result.get("action", {}),
+            "transcription": result.get("transcription", ""),  # <-- Add the extracted text to the response
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -48,6 +54,9 @@ async def validate_audio(file: UploadFile = File(...)):
         )
         if "error" in validation_result:
             raise HTTPException(status_code=400, detail=validation_result["error"])
-        return {"validation": validation_result}
+        return {
+            "validation": validation_result,
+            "transcription": transcription,  # <-- Add the extracted text to the response
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

@@ -106,3 +106,12 @@
 2025-06-06 17:08:34,261 | INFO     | RedditScrapingAgent | Completed analysis of all comments.
 2025-06-06 17:38:53,168 | INFO     | RedditScrapingAgent | Initialized RedditScrapingAgent with provided credentials and TextController.
 2025-06-06 17:39:42,045 | INFO     | RedditScrapingAgent | Initialized RedditScrapingAgent with provided credentials and TextController.
+2025-06-06 23:53:27,441 | INFO     | RedditScrapingAgent | Initialized RedditScrapingAgent with provided credentials and TextController.
+2025-06-07 00:00:01,728 | INFO     | RedditScrapingAgent | Fetching submission from URL: https://www.reddit.com/r/india/comments/1l4sg3m/i_worked_at_vijay_mallyas_former_legal_firm_in_a/
+2025-06-07 00:00:04,100 | INFO     | RedditScrapingAgent | Fetched 1 comments for analysis.
+2025-06-07 00:00:04,101 | INFO     | RedditScrapingAgent | Analyzing comment 1/1 (ID: mwbz9x4)
+2025-06-07 00:00:13,580 | INFO     | RedditScrapingAgent | Completed analysis of all comments.
+2025-06-07 00:02:01,255 | INFO     | RedditScrapingAgent | Fetching submission from URL: https://www.reddit.com/r/india/comments/1l4sg3m/i_worked_at_vijay_mallyas_former_legal_firm_in_a/
+2025-06-07 00:02:03,678 | INFO     | RedditScrapingAgent | Fetched 1 comments for analysis.
+2025-06-07 00:02:03,679 | INFO     | RedditScrapingAgent | Analyzing comment 1/1 (ID: mwbz9x4)
+2025-06-07 00:02:15,806 | INFO     | RedditScrapingAgent | Completed analysis of all comments.

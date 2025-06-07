@@ -266,3 +266,36 @@
 2025-06-06 17:41:04,322 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
 2025-06-06 17:41:04,322 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
 2025-06-06 17:41:04,322 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-06 17:47:39,522 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:47:39,522 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:47:39,522 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:48:10,176 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:48:10,176 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:48:10,176 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:59:50,329 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:59:50,329 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 17:59:50,329 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:52:55,693 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:53:11,208 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:53:11,208 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:53:27,390 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:53:27,390 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:53:27,390 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 23:57:55,334 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:57:55,334 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:57:55,334 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:58:50,529 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:58:50,529 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 23:58:50,529 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:00:13,576 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:00:13,576 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:00:13,576 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:02:15,804 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:02:15,804 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:02:15,804 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:11:11,913 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-07 00:11:11,913 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-07 00:11:11,913 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-07 00:18:07,121 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:18:07,121 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-07 00:18:07,121 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
