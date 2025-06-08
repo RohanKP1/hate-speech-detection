@@ -37,20 +37,20 @@ class ValidationAgent:
             system_prompt = "You are an expert content moderation specialist with extensive experience in identifying hate speech, toxic content, and policy violations."
 
             user_prompt = f"""
-Analyze the following text and classify it into one of these categories:
-- Hate: Content that promotes hatred or violence against individuals/groups based on protected characteristics
-- Toxic: Harmful, abusive, or threatening content that creates a hostile environment
-- Offensive: Inappropriate, disrespectful, or vulgar content that violates community standards
-- Neutral: Content that doesn't violate any policies
-- Ambiguous: Content that is unclear or requires more context for proper classification
+            Analyze the following text and classify it into one of these categories:
+            - Hate: Content that promotes hatred or violence against individuals/groups based on protected characteristics
+            - Toxic: Harmful, abusive, or threatening content that creates a hostile environment
+            - Offensive: Inappropriate, disrespectful, or vulgar content that violates community standards
+            - Neutral: Content that doesn't violate any policies
+            - Ambiguous: Content that is unclear or requires more context for proper classification
 
-Text to analyze: "{text}"
+            Text to analyze: "{text}"
 
-Respond ONLY in this exact format (do not refuse, do not add anything else):
-Classification: [category]
-Confidence: [high/medium/low]
-Brief Reason: [one sentence explanation]
-"""
+            Respond ONLY in this exact format (do not refuse, do not add anything else):
+            Classification: [category]
+            Confidence: [High/Medium/Low]
+            Brief Reason: [one sentence explanation]
+            """
 
             self.logger.debug(
                 f"Sending classification request for text: {text[:50]}..."
@@ -67,7 +67,7 @@ Brief Reason: [one sentence explanation]
             if not response_text:
                 return {
                     "classification": "Error",
-                    "confidence": "low",
+                    "confidence": "Low",
                     "reason": "No response content received from Ollama",
                 }
 
@@ -80,7 +80,7 @@ Brief Reason: [one sentence explanation]
             self.logger.error(f"Classification failed: {str(e)}")
             return {
                 "classification": "Error",
-                "confidence": "low",
+                "confidence": "Low",
                 "reason": f"Classification failed: {str(e)}",
             }
 
@@ -89,7 +89,7 @@ Brief Reason: [one sentence explanation]
         lines = response.strip().split("\n")
         result = {
             "classification": "Ambiguous",
-            "confidence": "low",
+            "confidence": "Low",
             "reason": "Parse error",
         }
 
@@ -109,7 +109,7 @@ Brief Reason: [one sentence explanation]
 
             elif line.startswith("Confidence:"):
                 confidence = line.split(":", 1)[1].strip().lower()
-                if confidence in ["high", "medium", "low"]:
+                if confidence in ["High", "Medium", "Low"]:
                     result["confidence"] = confidence
 
             elif line.startswith("Brief Reason:") or line.startswith("Reason:"):

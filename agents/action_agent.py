@@ -4,31 +4,31 @@ from utils.custom_logger import CustomLogger
 
 class ActionRecommenderAgent:
     # Valid confidence levels
-    VALID_CONFIDENCE_LEVELS: Set[str] = {"high", "medium", "low"}
+    VALID_CONFIDENCE_LEVELS: Set[str] = {"High", "Medium", "Low"}
 
     def __init__(self):
         self.logger = CustomLogger("ActionRecommender")
         self.action_map = {
             "Hate": {
-                "high": "REMOVE AND BAN",
-                "medium": "REMOVE AND WARN",
-                "low": "FLAG FOR REVIEW",
+                "High": "REMOVE AND BAN",
+                "Medium": "REMOVE AND WARN",
+                "Low": "FLAG FOR REVIEW",
             },
             "Toxic": {
-                "high": "REMOVE AND WARN",
-                "medium": "REMOVE AND WARN",
-                "low": "FLAG FOR REVIEW",
+                "High": "REMOVE AND WARN",
+                "Medium": "REMOVE AND WARN",
+                "Low": "FLAG FOR REVIEW",
             },
             "Offensive": {
-                "high": "REMOVE AND WARN",
-                "medium": "WARN USER",
-                "low": "FLAG FOR REVIEW",
+                "High": "REMOVE AND WARN",
+                "Medium": "WARN USER",
+                "Low": "FLAG FOR REVIEW",
             },
-            "Neutral": {"high": "ALLOW", "medium": "ALLOW", "low": "ALLOW"},
+            "Neutral": {"High": "ALLOW", "Medium": "ALLOW", "Low": "ALLOW"},
             "Ambiguous": {
-                "high": "FLAG FOR REVIEW",
-                "medium": "FLAG FOR REVIEW",
-                "low": "FLAG FOR REVIEW",
+                "High": "FLAG FOR REVIEW",
+                "Medium": "FLAG FOR REVIEW",
+                "Low": "FLAG FOR REVIEW",
             },
         }
 
@@ -44,12 +44,12 @@ class ActionRecommenderAgent:
     def _validate_confidence(self, confidence: Optional[str]) -> str:
         """Validate and normalize confidence level"""
         if not confidence:
-            return "low"
+            return "Low"
 
-        normalized = confidence.lower()
+        normalized = confidence.capitalize()
         if normalized not in self.VALID_CONFIDENCE_LEVELS:
-            self.logger.warning(f"Invalid confidence: {confidence}, defaulting to low")
-            return "low"
+            self.logger.warning(f"Invalid confidence: {confidence}, defaulting to Low")
+            return "Low"
         return normalized
 
     def _validate_category(self, category: Optional[str]) -> str:
@@ -108,11 +108,11 @@ class ActionRecommenderAgent:
                 raise ValueError("Category and confidence are required")
 
             severity_matrix = {
-                "Hate": {"high": "Critical", "medium": "High", "low": "Medium"},
-                "Toxic": {"high": "High", "medium": "Medium", "low": "Low"},
-                "Offensive": {"high": "Medium", "medium": "Low", "low": "Low"},
-                "Neutral": {"high": "None", "medium": "None", "low": "None"},
-                "Ambiguous": {"high": "Medium", "medium": "Low", "low": "Low"},
+                "Hate": {"High": "Critical", "Medium": "High", "Low": "Medium"},
+                "Toxic": {"High": "High", "Medium": "Medium", "Low": "Low"},
+                "Offensive": {"High": "Medium", "Medium": "Low", "Low": "Low"},
+                "Neutral": {"High": "None", "Medium": "None", "Low": "None"},
+                "Ambiguous": {"High": "Medium", "Medium": "Low", "Low": "Low"},
             }
 
             if category not in severity_matrix:

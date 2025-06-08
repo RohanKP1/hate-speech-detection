@@ -41,7 +41,7 @@ class HateSpeechDetectionAgent:
 
             Respond in this exact format:
             Classification: [category]
-            Confidence: [high/medium/low]
+            Confidence: [High/Medium/Low]
             Brief Reason: [one sentence explanation]
             """
 
@@ -51,7 +51,7 @@ class HateSpeechDetectionAgent:
 
             messages = [
                 SystemMessage(
-                    content="You are an expert content moderation specialist."
+                    content="You are an expert content moderation specialist with extensive experience in identifying hate speech, toxic content, and policy violations."
                 ),
                 HumanMessage(content=prompt),
             ]
@@ -62,7 +62,7 @@ class HateSpeechDetectionAgent:
             if result is None:
                 return {
                     "classification": "Error",
-                    "confidence": "low",
+                    "confidence": "Low",
                     "reason": "No response content received",
                 }
 
@@ -73,7 +73,7 @@ class HateSpeechDetectionAgent:
             self.logger.error(f"Classification failed: {str(e)}")
             return {
                 "classification": "Error",
-                "confidence": "low",
+                "confidence": "Low",
                 "reason": f"Classification failed: {str(e)}",
             }
 
@@ -82,7 +82,7 @@ class HateSpeechDetectionAgent:
         lines = response.strip().split("\n")
         result = {
             "classification": "Ambiguous",
-            "confidence": "low",
+            "confidence": "Low",
             "reason": "Parse error",
         }
 
