@@ -65,7 +65,7 @@ def test_classify_text_error(monkeypatch, agent):
     agent.model = ErrorModel()
     result = agent.classify_text("Test")
     assert result["classification"] == "Error"
-    assert result["confidence"] == "low"
+    assert result["confidence"] == "Low"
     assert "no response content" in result["reason"].lower()
 
 
@@ -74,7 +74,7 @@ def test_parse_classification_response_partial(agent):
     response = "Classification: Offensive"
     parsed = agent._parse_classification_response(response)
     assert parsed["classification"] == "Offensive"
-    assert parsed["confidence"] == "low"  # default
+    assert parsed["confidence"] == "Low"  # default
     assert parsed["reason"] == "Parse error"  # default
 
 
