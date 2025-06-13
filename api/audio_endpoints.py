@@ -25,7 +25,7 @@ async def analyze_audio(file: UploadFile = File(...)):
             "policies": result.get("policies", {}),
             "reasoning": result.get("reasoning", ""),
             "action": result.get("action", {}),
-            "transcription": result.get("transcription", "")
+            "transcription": result.get("transcription", ""),
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
