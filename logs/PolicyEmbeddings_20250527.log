@@ -1,0 +1,857 @@
+2025-05-27 13:03:36,798 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:03:37,687 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:03:37,688 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:03:37,691 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:03:37,692 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:03:54,806 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Request timed out.
+2025-05-27 13:04:21,200 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:21,659 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:21,659 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:21,661 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:21,661 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:24,304 | INFO     | PolicyEmbeddings | Successfully stored 5 embeddings in ChromaDB
+2025-05-27 13:04:49,401 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:49,401 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:49,789 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:49,789 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:49,789 | INFO     | PolicyEmbeddings | Successfully initialized ChromaDB client with persist directory: ./chroma_db
+2025-05-27 13:04:50,491 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,491 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,491 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,493 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,493 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,493 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,495 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,495 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,495 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,496 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,496 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,496 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,499 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,499 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,499 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,500 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:04:50,500 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:04:50,500 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:04:50,767 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,767 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,767 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:04:50,768 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,768 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,768 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:04:50,770 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,770 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,770 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:04:50,771 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,771 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,771 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:04:50,772 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,772 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,772 | INFO     | PolicyEmbeddings | Collection already contains 5 documents. Clearing collection...
+2025-05-27 13:04:50,773 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:04:50,773 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:04:50,773 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Expected where to have exactly one operator, got {} in delete.
+2025-05-27 13:12:58,197 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:12:58,198 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:12:58,200 | INFO     | PolicyEmbeddings | Policy changes detected or storage unavailable, processing documents
+2025-05-27 13:12:58,201 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-27 13:12:58,203 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-27 13:13:01,148 | INFO     | PolicyEmbeddings | All data saved to FAISS storage successfully
+2025-05-27 13:13:01,148 | INFO     | PolicyEmbeddings | Created and stored embeddings with shape (5, 1536)
+2025-05-27 13:13:14,983 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:14,983 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:14,983 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:14,984 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:14,984 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:14,984 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:14,986 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:14,986 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:14,986 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:14,997 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:14,997 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:14,997 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:14,998 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:14,998 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:14,998 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:15,277 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:15,277 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:15,277 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:13:15,278 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:15,278 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:15,278 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:13:15,279 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:15,279 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:15,279 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:13:15,281 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:15,281 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:15,281 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:13:15,282 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:15,282 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:15,282 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:13:19,562 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:13:19,562 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:13:19,562 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:14:12,430 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:14:12,431 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:14:12,432 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:14:12,434 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:14:12,434 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,313 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,313 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,313 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,315 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,315 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,315 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,318 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,318 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,318 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,321 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,321 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,321 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,323 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,323 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,323 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,657 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,657 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,657 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:15:09,658 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,658 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,658 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:15:09,661 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,661 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,661 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:15:09,662 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,662 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,662 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:15:09,663 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,663 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:09,663 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:15:14,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:15:14,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:15:14,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:20:43,754 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:20:43,754 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:20:43,756 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:20:43,757 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:20:43,757 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:21:30,473 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:22:46,977 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:24:06,956 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:28:58,719 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:28:58,719 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:28:58,721 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:28:58,721 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:28:58,723 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:28:58,723 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:28:58,725 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:28:58,725 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:28:58,726 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:28:58,726 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:19,173 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:19,173 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:19,173 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:19,175 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:19,175 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:19,175 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:19,178 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:19,178 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:19,178 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:19,180 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:19,180 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:19,180 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:19,183 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:19,183 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:19,183 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:36,346 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:36,346 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:36,346 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:36,346 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:29:36,349 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:36,349 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:36,349 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:36,349 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:29:36,354 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:36,354 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:36,354 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:36,354 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:29:36,358 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:36,358 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:36,358 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:36,358 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:29:36,361 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:36,361 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:36,361 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:29:36,361 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,038 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,042 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,046 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,050 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,053 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,289 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,293 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,298 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,304 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:04,307 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:30:08,617 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,447 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,450 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,456 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,460 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:31:24,463 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,811 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,817 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,833 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,839 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:15,849 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,092 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,113 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,137 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,155 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,174 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,429 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,451 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,476 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,500 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:34,519 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:37:42,181 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,662 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,676 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,689 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,701 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:38:10,711 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,622 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,647 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,666 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,687 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:28,707 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,654 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,704 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,749 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,787 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,836 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:42,838 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,927 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:42,995 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,044 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:43,104 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:46:48,534 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:51:14,240 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:14,241 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:14,242 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:14,243 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:14,243 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,269 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,269 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,269 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,270 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,270 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,270 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,273 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,274 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,552 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,552 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,552 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:51:27,553 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,553 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,553 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:51:27,554 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,554 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,554 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:51:27,556 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,556 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,556 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:51:27,557 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,557 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:27,557 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:51:33,184 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:51:33,184 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:51:33,184 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:53:00,296 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:53:00,296 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:53:00,296 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:53:00,296 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:53:00,297 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:53:00,297 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:53:00,297 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:53:00,297 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:53:00,299 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:53:00,299 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:53:00,299 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:53:00,299 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:53:00,301 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:53:00,301 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:53:00,301 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:53:00,301 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:53:00,302 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:53:00,302 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:53:00,302 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:53:00,302 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:03,427 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:03,428 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:03,429 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:03,430 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:03,431 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:20,762 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:20,762 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:20,762 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:20,763 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:20,763 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:20,763 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:20,767 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:20,767 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:20,767 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:20,770 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:20,770 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:20,770 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:20,771 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:20,771 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:20,771 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:21,018 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:21,018 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:21,018 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 13:58:21,019 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:21,019 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:21,019 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 13:58:21,021 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:21,021 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:21,021 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:21,023 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 13:58:25,394 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:58:25,394 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 13:58:25,394 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 20:12:09,318 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:09,319 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:09,321 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:09,325 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:09,325 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,495 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,495 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,495 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,496 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,496 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,496 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,498 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,498 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,498 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,499 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,499 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,499 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,500 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,500 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,500 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,753 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,753 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,753 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:12:57,754 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,754 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,754 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:12:57,756 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,756 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,756 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:12:57,757 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,757 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,757 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:12:57,760 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,760 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:12:57,760 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:13:04,550 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 20:13:04,550 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 20:13:04,550 | INFO     | PolicyEmbeddings | Found 3 matching documents
+2025-05-27 20:14:42,642 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:14:42,642 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:14:42,642 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:14:42,642 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-27 20:14:42,643 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:14:42,643 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:14:42,643 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:14:42,643 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-27 20:14:42,646 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:14:42,646 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:14:42,646 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:14:42,646 | INFO     | PolicyEmbeddings | No policy changes detected, loading existing embeddings
+2025-05-27 20:14:42,649 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:14:42,649 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:14:42,649 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:14:42,649 | INFO     | PolicyEmbeddings | Loaded 5 documents and embeddings from FAISS storage
+2025-05-27 20:14:42,651 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:14:42,651 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:14:42,651 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date
+2025-05-27 20:14:42,651 | INFO     | PolicyEmbeddings | Embeddings already loaded and up to date

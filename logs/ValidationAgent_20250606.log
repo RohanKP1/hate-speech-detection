@@ -1,0 +1,292 @@
+2025-06-06 00:00:07,383 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:11,313 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:25,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:25,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:43,840 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:58,818 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:03:58,818 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:04:49,945 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:14:48,293 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:02,917 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:02,917 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:21,526 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:36,201 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 00:15:36,201 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 02:01:02,252 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "Fuck off" is a common phrase used to express frustration or annoyance. It does not promote hatred, violence, or create a hostile environment.
+2025-06-06 02:01:02,252 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "Fuck off" is a common phrase used to express frustration or annoyance. It does not promote hatred, violence, or create a hostile environment.
+2025-06-06 02:01:02,254 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 02:01:02,254 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:15:41,375 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 12:16:00,955 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 12:16:00,955 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 12:17:28,082 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 12:24:16,522 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "hello" is neutral and does not violate any policies.
+2025-06-06 12:24:16,522 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "hello" is neutral and does not violate any policies.
+2025-06-06 12:24:16,524 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:24:16,524 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:25:14,859 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies or community standards.
+2025-06-06 12:25:14,859 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies or community standards.
+2025-06-06 12:25:14,860 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:25:14,860 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:26:36,248 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello guys" is a common greeting used in online communication and does not violate any policies.
+2025-06-06 12:26:36,249 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:34:17,410 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello guys" is a common greeting used in online communication and does not violate any policies.
+2025-06-06 12:34:17,410 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello guys" is a common greeting used in online communication and does not violate any policies.
+2025-06-06 12:34:17,412 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:34:17,412 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 12:35:18,184 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult and can be considered hate speech.
+2025-06-06 12:35:18,184 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult and can be considered hate speech.
+2025-06-06 12:35:18,185 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:35:18,185 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:35:53,744 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult. It promotes hatred and violence against individuals based on gender identity.
+2025-06-06 12:35:53,744 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult. It promotes hatred and violence against individuals based on gender identity.
+2025-06-06 12:35:53,746 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:35:53,746 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:38:31,834 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult.
+2025-06-06 12:38:31,834 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text contains a derogatory term for women that is commonly used as an insult.
+2025-06-06 12:38:31,835 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:38:31,835 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:40:01,720 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:40:01,720 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:40:01,721 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:40:01,721 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:41:44,178 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:41:44,178 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:41:44,179 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:41:44,179 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:48:49,985 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:48:49,985 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:48:49,986 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:48:49,986 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:51:44,275 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:51:44,275 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Hate
+Confidence: High
+Brief Reason: The text promotes hatred towards a specific group based on their protected characteristics.
+2025-06-06 12:51:44,277 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:51:44,277 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:53:54,405 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 12:53:54,405 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 12:53:54,406 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 12:53:54,406 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 13:29:18,601 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello bachoo" is a greeting in the Hindi language, which does not violate any policies.
+2025-06-06 13:29:18,601 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello bachoo" is a greeting in the Hindi language, which does not violate any policies.
+2025-06-06 13:29:18,603 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 13:29:18,603 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 13:32:16,263 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "hello bachoo" is a greeting that does not violate any policies or community standards.
+2025-06-06 13:32:16,263 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: Medium
+Brief Reason: "hello bachoo" is a greeting that does not violate any policies or community standards.
+2025-06-06 13:32:16,264 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 13:32:16,264 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 13:40:02,696 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 13:40:19,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 13:40:19,096 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:24:22,626 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:24:37,300 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:24:37,300 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:31:22,287 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:31:37,103 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:31:37,103 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:35:22,170 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:35:36,555 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:35:36,555 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:35:56,347 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:11,671 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:11,671 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:26,507 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:33,711 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:49,714 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:36:49,714 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:40:17,341 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:40:33,596 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:40:33,596 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:41:09,097 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:41:27,959 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:41:27,959 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:41:55,425 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:41:57,655 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:42:10,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:42:10,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:03,140 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:17,994 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:17,994 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:36,896 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:52,285 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:45:52,285 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:54:35,285 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:54:50,048 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:54:50,048 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:10,253 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:11,135 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:28,383 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:28,383 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:31,126 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:55:31,126 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 14:59:54,146 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:00:12,234 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:00:12,234 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:00:36,477 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:00:52,365 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:00:52,365 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:02:27,067 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:02:43,843 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:02:43,843 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:03:03,363 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:03:20,662 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:03:20,662 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:11:36,218 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:11:52,000 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:11:52,000 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:12:07,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:12:07,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:12:07,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:03,774 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:17,636 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:17,636 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:31,168 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:31,168 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:31,168 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:13:52,259 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:14:06,938 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:14:06,938 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:14:21,703 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:14:21,703 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:14:21,703 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:00,283 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:13,853 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:13,853 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:27,538 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:27,538 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:27,538 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:17:46,380 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:18:01,944 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:18:01,944 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:18:16,187 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:18:16,187 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 15:18:16,187 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:04,171 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:19,196 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:19,196 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:34,246 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:34,246 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:00:34,246 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:25,729 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:39,374 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:39,374 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:53,166 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:53,166 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:38:53,166 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:11,265 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:27,179 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:27,179 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:39:42,043 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,431 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: "hello" is a common greeting that does not violate any policies.
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:45:49,433 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,658 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:48:52,661 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,354 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Ambiguous
+Confidence: Medium
+Brief Reason: The text is ambiguous and requires more context to determine if it violates any policies.
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 17:49:42,356 | WARNING  | ValidationAgent | Validation failed: classifications do not match
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,802 | INFO     | ValidationAgent | Successfully classified text with response: Classification: Neutral
+Confidence: High
+Brief Reason: The text "helllooo guysss" is neutral and does not violate any policies.
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 18:01:05,806 | INFO     | ValidationAgent | Validation successful: classifications match
+2025-06-06 23:52:55,742 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:11,247 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:11,247 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored
+2025-06-06 23:53:27,439 | INFO     | ValidationAgent | Successfully initialized Ollama with model: llama2-uncensored

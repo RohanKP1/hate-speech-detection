@@ -1,0 +1,382 @@
+2025-06-05 00:07:41,516 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 00:09:05,360 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 00:09:59,390 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 00:21:30,910 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 00:23:00,484 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 00:29:45,380 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 00:38:57,378 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 00:43:17,519 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 00:46:42,213 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 00:49:30,458 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 00:50:42,856 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 00:54:53,938 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 00:56:07,252 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 00:57:43,691 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 00:58:48,844 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 01:00:03,222 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 01:03:28,091 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 01:06:32,515 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 01:12:23,132 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 12:29:04,428 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:29:44,056 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:31:47,748 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:32:18,852 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:32:35,276 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:34:19,211 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:34:40,601 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:36:56,793 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:38:04,712 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:38:20,010 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:43:49,401 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:44:10,572 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:46:03,408 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:46:20,937 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:48:39,508 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 12:48:56,721 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:50:10,921 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 12:52:31,941 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 12:53:56,348 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: Medium)
+2025-06-05 12:54:36,032 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 12:55:23,835 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 12:56:17,910 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 12:58:30,999 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 12:59:34,294 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:01:13,839 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,037 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,037 | INFO     | ActionRecommender | Recommended action: REMOVE AND BAN (Severity: Critical)
+2025-06-05 13:30:26,040 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,040 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,041 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,041 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,043 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,043 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,043 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,044 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:30:26,044 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:30:26,044 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:30:26,046 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,046 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,046 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,046 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,047 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,047 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,047 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,047 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,048 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:30:26,050 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,050 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,050 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,050 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,050 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,051 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,051 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,051 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,051 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,051 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,055 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,056 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,057 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,060 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,063 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,064 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,066 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:30:26,068 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,012 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,013 | INFO     | ActionRecommender | Recommended action: REMOVE AND BAN (Severity: Critical)
+2025-06-05 13:34:20,015 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,015 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,015 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,015 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:34:20,017 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:34:20,018 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,018 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,018 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,018 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,019 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,025 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,025 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,025 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,025 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,027 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,029 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,030 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,032 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,033 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,034 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:34:20,036 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,755 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,756 | INFO     | ActionRecommender | Recommended action: REMOVE AND BAN (Severity: Critical)
+2025-06-05 13:40:01,758 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,758 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,759 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,759 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,761 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,761 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,761 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,762 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:40:01,762 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:40:01,762 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-05 13:40:01,764 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,764 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,764 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,764 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,765 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,765 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,765 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,765 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,766 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,766 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,766 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,766 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,767 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,767 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,767 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,767 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 13:40:01,770 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,770 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,770 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,770 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,770 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,771 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,771 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,771 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,771 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,771 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Low)
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,773 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,774 | WARNING  | ActionRecommender | Invalid confidence: unknown, defaulting to low
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,775 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,777 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,778 | WARNING  | ActionRecommender | Invalid category: Spam, defaulting to Ambiguous
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,779 | INFO     | ActionRecommender | Recommended action: FLAG FOR REVIEW (Severity: Medium)
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,782 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 13:40:01,784 | ERROR    | ActionRecommender | Error recommending action: Classification must be a dictionary
+2025-06-05 17:40:06,976 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 17:40:19,617 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 17:45:40,360 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 17:45:54,677 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:01:17,741 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:07:47,025 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:11:10,315 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:12:13,889 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:13:27,124 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:13:51,153 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:14:10,291 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:15:28,085 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:20:11,754 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:35:21,637 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:35:36,948 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:35:36,948 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:37:05,039 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:37:21,686 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:37:21,686 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:37:53,606 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:37:53,606 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:58:23,231 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:58:38,780 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:58:38,780 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 18:59:42,823 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 18:59:42,823 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 23:34:51,510 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:35:08,364 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:35:08,364 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:10,056 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:23,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:23,993 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:43,799 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:59,526 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:36:59,526 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:38:13,641 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:38:27,703 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:38:27,703 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:38:52,462 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:39:07,936 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:39:07,936 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:42:45,696 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 23:42:45,696 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 23:43:36,357 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 23:43:36,357 | INFO     | ActionRecommender | Recommended action: REMOVE AND WARN (Severity: High)
+2025-06-05 23:54:10,459 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:56:15,452 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-05 23:58:46,573 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:01,071 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:01,071 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:20,369 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:34,545 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:34,545 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-05 23:59:52,965 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 00:00:07,348 | INFO     | ActionRecommender | Initialized action recommender with predefined policies
+2025-06-06 00:00:37,596 | INFO     | ActionRecommender | Recommended action: ALLOW (Severity: None)
+2025-06-06 00:01:09,698 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-06 00:01:45,381 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)
+2025-06-06 00:01:55,007 | INFO     | ActionRecommender | Recommended action: WARN USER (Severity: Low)

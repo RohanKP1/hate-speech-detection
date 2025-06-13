@@ -1,0 +1,240 @@
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,828 | ERROR    | ErrorHandler | Error in content analysis: ValueError - could not convert string to float: 'High'
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:37:47,853 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 713, in main
+    display_classification_result(results['classification'])
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 448, in display_classification_result
+    confidence_percentage = f"{float(classification['confidence']) * 100:.1f}%"
+                               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'High'
+
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,905 | ERROR    | ErrorHandler | Error in content analysis: TypeError - list indices must be integers or slices, not str
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-05-27 13:46:54,959 | ERROR    | ErrorHandler | Traceback: Traceback (most recent call last):
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 218, in main
+    display_results(*results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\RohanM\Documents\hate-speech-detection\app.py", line 156, in display_results
+    action_color = action_colors.get(action_recommendation['action'], '#95a5a6')
+                                     ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+

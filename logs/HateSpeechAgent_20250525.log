@@ -1,0 +1,1283 @@
+2025-05-25 19:27:55,264 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:18,329 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,547 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,547 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,547 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,971 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,971 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:45,971 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:32:51,147 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains a disrespectful and inappropriate comment about someone's appearance, violating community standards.
+2025-05-25 19:32:51,147 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains a disrespectful and inappropriate comment about someone's appearance, violating community standards.
+2025-05-25 19:32:51,147 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains a disrespectful and inappropriate comment about someone's appearance, violating community standards.
+2025-05-25 19:37:56,284 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,284 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,284 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,284 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,284 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,548 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,548 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,548 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,548 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:37:56,548 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:38:02,136 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a negative stereotype targeting a specific ethnic group, which constitutes hate speech.
+2025-05-25 19:38:02,136 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a negative stereotype targeting a specific ethnic group, which constitutes hate speech.
+2025-05-25 19:38:02,136 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a negative stereotype targeting a specific ethnic group, which constitutes hate speech.
+2025-05-25 19:38:02,136 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a negative stereotype targeting a specific ethnic group, which constitutes hate speech.
+2025-05-25 19:38:02,136 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a negative stereotype targeting a specific ethnic group, which constitutes hate speech.
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:02,804 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:03,092 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:45:08,370 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The statement is disrespectful and generalizes a negative opinion about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:32,328 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:47:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text makes a disrespectful and inappropriate generalization about a group of people based on their ethnicity, violating community standards.
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:47,868 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:48,073 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:48:53,675 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:34,997 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:52:39,714 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a specific group based on their protected characteristic (religion), which constitutes hate speech.
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,521 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:12,737 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:55:18,559 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text uses a vulgar and disrespectful term to refer to an individual, violating community standards.
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:19,246 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:56:23,755 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:05,772 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:06,011 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:11,021 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text is disrespectful and body-shaming, which violates community standards.
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,631 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:47,876 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:57:53,768 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a positive and non-controversial statement that does not violate any policies.
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,305 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:24,538 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:58:30,984 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religion, which is a protected characteristic.
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,341 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:06,646 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:13,468 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,600 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:34,891 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 19:59:41,361 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence against a group based on their religious identity, which constitutes hate speech.
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:22,797 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:23,086 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:00:29,975 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and inappropriate language targeting an individual's physical appearance, which violates community standards.
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:00,473 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:03,545 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:09,533 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or disrespectful language and does not target any protected characteristics.
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:25,591 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 20:01:30,885 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 22:59:30,775 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:35,695 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:35,695 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:35,695 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:36,001 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:36,001 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:36,001 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:00:42,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The statement expresses a negative opinion about a company but does not contain hate, toxicity, offensiveness, or require additional context.
+2025-05-25 23:00:42,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The statement expresses a negative opinion about a company but does not contain hate, toxicity, offensiveness, or require additional context.
+2025-05-25 23:00:42,132 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The statement expresses a negative opinion about a company but does not contain hate, toxicity, offensiveness, or require additional context.
+2025-05-25 23:01:49,166 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,166 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,166 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,166 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,166 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,546 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,546 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,546 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,546 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:49,546 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:01:56,862 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and vulgar language targeting an individual's appearance, which violates community standards.
+2025-05-25 23:01:56,862 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and vulgar language targeting an individual's appearance, which violates community standards.
+2025-05-25 23:01:56,862 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and vulgar language targeting an individual's appearance, which violates community standards.
+2025-05-25 23:01:56,862 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and vulgar language targeting an individual's appearance, which violates community standards.
+2025-05-25 23:01:56,862 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The text contains disrespectful and vulgar language targeting an individual's appearance, which violates community standards.
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,697 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:37,991 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:02:44,386 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text explicitly promotes violence and hatred against a group based on their religious identity, which is a protected characteristic.
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,045 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:30,363 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.
+2025-05-25 23:03:37,044 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Hate  
+Confidence: High  
+Brief Reason: The text promotes a harmful stereotype targeting a specific group based on their ethnicity, which constitutes hate speech.

@@ -1,0 +1,405 @@
+2025-06-04 13:45:45,333 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 13:46:30,207 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:47:37,252 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:48:42,164 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:54:28,540 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 13:56:48,471 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 13:56:49,705 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:27:38,020 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:27:39,139 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:27:52,293 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:27:53,510 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:29:46,531 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:29:47,608 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:46:49,453 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:47:14,471 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:48:14,281 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:48:15,651 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 14:49:08,050 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:49:09,428 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 14:50:18,239 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:50:19,610 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 14:51:30,417 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:51:33,297 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 14:58:16,027 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 14:58:50,791 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:00:03,019 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:00:05,353 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The phrase "I hate you!" expresses hostility and creates a negative environment, qualifying it as harmful content.
+2025-06-04 15:01:16,781 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:01:49,484 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:02:19,363 | ERROR    | HateSpeechAgent | Classification failed: Unknown api key
+2025-06-04 15:10:49,669 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:10:51,689 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement expresses hostility and includes the phrase "I hate you," which creates a harmful and abusive tone.
+2025-06-04 15:12:35,303 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client
+2025-06-04 15:12:59,977 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hellooo" does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 15:29:20,481 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:29:59,804 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 15:33:54,038 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 15:34:42,965 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 15:35:09,304 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text is a simple greeting without any harmful or offensive content.
+2025-06-04 15:35:33,304 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains abusive language that could create a hostile environment, though the exact intent is unclear without additional context.
+2025-06-04 16:00:11,111 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:00:41,109 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a casual greeting without any harmful or inappropriate content.
+2025-06-04 16:10:54,978 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:11:20,118 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "helllo" does not contain any harmful, abusive, or inappropriate content and appears to be a misspelling of "hello."
+2025-06-04 16:15:01,750 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 16:15:25,005 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text "hellloooo" does not contain any harmful, abusive, or inappropriate content and appears to be a playful or exaggerated greeting.
+2025-06-04 17:24:47,543 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 17:25:15,687 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The text appears to be in a language or code that is not immediately clear, making it difficult to determine its intent or meaning without additional context.
+2025-06-04 17:25:41,073 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The phrase "rohn ki bkc" is unclear and lacks context, making it difficult to determine its intent or meaning.
+2025-06-04 17:26:14,172 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The phrase "rohn ki bkc" is unclear and lacks context, making it difficult to determine if it falls into any specific category of harmful or inappropriate content.
+2025-06-04 17:26:30,753 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The phrase "rohn ki bkc" lacks clear context and could potentially have various interpretations, making it difficult to classify definitively.
+2025-06-04 17:26:36,579 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The phrase "rohn ki bkc" is unclear and lacks context, making it difficult to determine its intent or meaning.
+2025-06-04 17:27:07,625 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The phrase translates to "he is a good person" in English, which does not contain any harmful or inappropriate content.
+2025-06-04 17:28:11,514 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text appears to be a non-offensive phrase without any clear harmful or inappropriate content.
+2025-06-04 17:28:38,618 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The phrase "ishant makhanchor" lacks context and could be interpreted in various ways, making it unclear for proper classification.
+2025-06-04 17:28:39,004 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The term "makhanchor" could be interpreted in various ways depending on context, and without additional information, its intent is unclear.
+2025-06-04 17:29:23,007 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase contains abusive language that is likely to create a hostile environment.
+2025-06-04 17:29:23,283 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The phrase contains abusive language that is likely to create a hostile environment.
+2025-06-04 17:30:17,915 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The text appears to be a request for borrowing a cooking utensil, but without additional context, it is unclear if it carries any negative connotations or intent.
+2025-06-04 17:30:18,026 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Ambiguous  
+Confidence: Medium  
+Brief Reason: The text appears to be a request related to cooking, but without additional context, it is unclear whether it is intended humorously, disrespectfully, or neutrally.
+2025-06-04 17:30:51,582 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The phrase translates to "your mother is good," which does not contain any harmful or offensive content.
+2025-06-04 17:30:52,925 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The phrase translates to "your mother is good," which does not contain any harmful, abusive, or offensive content.
+2025-06-04 17:31:13,432 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 17:31:13,699 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains disrespectful language that is likely to be considered vulgar and inappropriate.
+2025-06-04 17:31:52,012 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains a derogatory implication about someone's mother, which can be considered harmful and abusive.
+2025-06-04 17:31:53,471 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains a derogatory implication about someone's mother, which can be considered harmful and abusive.
+2025-06-04 17:32:15,794 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be interpreted as vulgar or inappropriate, depending on the context.
+2025-06-04 17:32:16,696 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: Medium  
+Brief Reason: The text appears to be a casual statement in Hindi, which translates to "your mother might have gone to the city," and does not contain any overtly harmful or offensive content, but context is needed to fully assess intent.
+2025-06-04 17:32:38,569 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be interpreted as abusive or threatening, creating a hostile environment.
+2025-06-04 17:32:39,474 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be interpreted as abusive or threatening, creating a hostile environment.
+2025-06-04 17:34:54,506 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that is disrespectful and could be considered inappropriate in many contexts.
+2025-06-04 17:34:54,507 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains vulgar language that is disrespectful and inappropriate, potentially violating community standards.
+2025-06-04 17:35:23,240 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains a derogatory reference that could be interpreted as abusive or threatening, creating a hostile environment.
+2025-06-04 17:35:23,431 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: medium  
+Brief Reason: The phrase contains a derogatory reference that could be interpreted as abusive or threatening, creating a hostile environment.
+2025-06-04 17:36:01,359 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase suggests a harmful or abusive intent towards someone's sister, creating a hostile environment.
+2025-06-04 17:36:02,032 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase suggests a threatening or abusive intent towards someone's sister, creating a hostile environment.
+2025-06-04 17:36:34,079 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that could be considered vulgar or inappropriate in certain contexts.
+2025-06-04 17:36:34,323 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: Medium  
+Brief Reason: The phrase contains an insult directed at someone's sister, which can create a hostile environment.
+2025-06-04 17:58:33,068 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 17:58:34,338 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 18:09:16,745 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 18:09:17,633 | ERROR    | HateSpeechAgent | Classification failed: Error code: 403 - {'error': {'message': 'Access denied', 'code': '403'}}
+2025-06-04 18:28:43,954 | INFO     | HateSpeechAgent | Model llama3.1:8b not found. Pulling...
+2025-06-04 19:50:40,019 | INFO     | HateSpeechAgent | Successfully initialized Ollama with model: llama3.1:8b
+2025-06-04 19:51:19,681 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic
+Confidence: High
+Brief Reason: The text contains a direct and explicit threat ("I hate you!") that creates a hostile environment, indicating toxic content.
+2025-06-04 19:59:16,422 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 19:59:18,690 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement expresses hostility and negative feelings towards another person, creating a harmful environment.
+2025-06-04 19:59:47,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 19:59:47,977 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 19:59:50,161 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 19:59:50,161 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 20:05:20,836 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:05:23,083 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: High  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 20:28:10,956 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:29:02,517 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that may be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:29:43,413 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that could be considered vulgar or inappropriate, depending on the context.
+2025-06-04 20:29:46,075 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:29:46,075 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:29:47,777 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that may be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:29:47,777 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains disrespectful language that may be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:31:41,417 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 20:31:41,417 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 20:31:44,441 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:31:44,441 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:31:44,441 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:31:46,225 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 20:31:46,225 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 20:31:46,225 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Neutral  
+Confidence: High  
+Brief Reason: The text does not contain any harmful, abusive, or inappropriate content and appears to be a casual greeting.
+2025-06-04 20:33:03,767 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:03,767 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:03,767 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:06,526 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:33:06,526 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:33:06,526 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:33:06,526 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:33:08,306 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:08,306 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:08,306 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:33:08,306 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains a disrespectful reference that could be considered vulgar or inappropriate in many contexts.
+2025-06-04 20:34:09,658 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:34:09,658 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:34:09,658 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:34:09,658 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:34:12,356 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:34:12,356 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:34:12,356 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:34:12,356 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:34:12,356 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:34:13,831 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:34:13,831 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:34:13,831 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:34:13,831 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:34:13,831 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:37:05,578 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:38:04,375 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:38:21,388 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:38:23,994 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:38:23,994 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:38:25,598 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:38:25,598 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:40:32,960 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:40:32,960 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:40:35,709 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:40:35,709 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:40:35,709 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:40:37,853 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, potentially violating community standards.
+2025-06-04 20:40:37,853 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, potentially violating community standards.
+2025-06-04 20:40:37,853 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, potentially violating community standards.
+2025-06-04 20:43:25,745 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:47:23,093 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:47:24,911 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Toxic  
+Confidence: high  
+Brief Reason: The statement expresses hatred towards an individual, creating a hostile environment.
+2025-06-04 20:48:29,417 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:49:01,246 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:49:20,385 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:49:23,265 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:49:23,265 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:49:25,962 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:49:25,962 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:52:29,523 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:52:29,523 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:52:32,602 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:52:32,602 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:52:32,602 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:52:34,529 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:52:34,529 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:52:34,529 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:55:46,512 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:55:46,512 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:55:46,512 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:55:48,854 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:55:48,854 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:55:48,854 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:55:48,854 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:55:50,628 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:55:50,628 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:55:50,628 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:55:50,628 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar, violating community standards.
+2025-06-04 20:57:49,629 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:57:49,629 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:57:49,629 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:57:49,629 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: Medium  
+Brief Reason: The phrase contains derogatory language that is disrespectful and could be considered vulgar.
+2025-06-04 20:57:52,396 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:57:52,396 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:57:52,396 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:57:52,396 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:57:52,396 | INFO     | HateSpeechAgent | Successfully initialized Azure OpenAI client with LangChain
+2025-06-04 20:57:53,994 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:57:53,994 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:57:53,994 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:57:53,994 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.
+2025-06-04 20:57:53,994 | INFO     | HateSpeechAgent | Successfully classified text with response: Classification: Offensive  
+Confidence: High  
+Brief Reason: The phrase contains derogatory language that is disrespectful and vulgar, violating community standards.

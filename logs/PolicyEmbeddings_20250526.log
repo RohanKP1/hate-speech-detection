@@ -1,0 +1,15 @@
+2025-05-26 15:41:06,885 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-26 15:41:12,126 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-26 15:41:12,127 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-26 15:41:12,127 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-26 15:41:28,986 | ERROR    | PolicyEmbeddings | Failed to create embeddings: Request timed out.
+2025-05-26 15:42:07,331 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-26 15:42:08,143 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-26 15:42:08,145 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-26 15:42:08,145 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-26 15:42:10,647 | INFO     | PolicyEmbeddings | Created embeddings with shape (5, 1536)
+2025-05-26 15:43:48,163 | INFO     | PolicyEmbeddings | Successfully initialized Azure OpenAI client
+2025-05-26 15:43:48,164 | INFO     | PolicyEmbeddings | Loading documents from data/policy_docs
+2025-05-26 15:43:48,165 | INFO     | PolicyEmbeddings | Loaded 5 document chunks
+2025-05-26 15:43:48,166 | INFO     | PolicyEmbeddings | Creating embeddings for documents
+2025-05-26 15:43:50,278 | INFO     | PolicyEmbeddings | Created embeddings with shape (5, 1536)

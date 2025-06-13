@@ -1,0 +1,2 @@
+2025-05-27 14:24:50,013 | INFO     | AudioTranscription | Successfully initialized Azure OpenAI client
+2025-05-27 14:25:34,686 | ERROR    | AudioTranscription | Transcription failed: No route
