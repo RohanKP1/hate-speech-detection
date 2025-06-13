@@ -1,8 +1,0 @@
-2025-06-05 23:37:05,493 | INFO     | HateSpeechListener | HateSpeechListener initialized
-2025-06-05 23:37:07,546 | ERROR    | HateSpeechListener | Audio request error (http://localhost:8000/api/audio/analyze-audio): 404 Client Error: Not Found for url: http://localhost:8000/api/audio/analyze-audio
-2025-06-05 23:37:09,566 | ERROR    | HateSpeechListener | Audio request error (http://localhost:8000/api/audio/validate-audio): 404 Client Error: Not Found for url: http://localhost:8000/api/audio/validate-audio
-2025-06-05 23:37:11,619 | ERROR    | HateSpeechListener | Text analysis error: 404 Client Error: Not Found for url: http://localhost:8000/api/text/analyze
-2025-06-05 23:37:13,657 | ERROR    | HateSpeechListener | Text validation error: 404 Client Error: Not Found for url: http://localhost:8000/api/text/validate
-2025-06-05 23:39:36,122 | INFO     | HateSpeechListener | HateSpeechListener initialized
-2025-06-05 23:41:07,731 | ERROR    | HateSpeechListener | Audio request error (http://localhost:8000/audio/analyze-audio): 500 Server Error: Internal Server Error for url: http://localhost:8000/audio/analyze-audio
-2025-06-05 23:42:32,379 | INFO     | HateSpeechListener | HateSpeechListener initialized

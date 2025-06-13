@@ -1,7 +1,0 @@
-2025-05-26 15:41:12,125 | INFO     | HybridRetriever | Document changes detected, embeddings need update
-2025-05-26 15:41:12,125 | INFO     | HybridRetriever | Creating new embeddings...
-2025-05-26 15:41:28,987 | ERROR    | HybridRetriever | Error initializing embeddings: Request timed out.
-2025-05-26 15:42:08,142 | INFO     | HybridRetriever | Document changes detected, embeddings need update
-2025-05-26 15:42:08,143 | INFO     | HybridRetriever | Creating new embeddings...
-2025-05-26 15:42:10,712 | ERROR    | HybridRetriever | Error initializing embeddings: 'PolicyEmbeddings' object has no attribute 'embed_text'
-2025-05-26 15:43:50,278 | INFO     | HybridRetriever | Loaded 5 document chunks from data/policy_docs
