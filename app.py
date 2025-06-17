@@ -13,6 +13,7 @@ from datetime import datetime
 import tempfile
 from concurrent.futures import ThreadPoolExecutor
 import time
+import speech_recognition as sr
 
 # Page configuration with responsive layout
 st.set_page_config(
@@ -735,21 +736,36 @@ def render_audio_analysis_page(agents):
     # Live recording section
     st.markdown("---")
     st.markdown("### Live Recording")
-
     record_btn = st.button(
         "🎙️ Start Recording", type="primary", use_container_width=True
     )
 
     if record_btn:
-        with st.spinner("🎵 Recording and transcribing... Speak now!"):
+        with st.spinner("🎵 Recording... Speak now!"):
             try:
-                rt_transcription = agents["audio"].transcribe_real_time_audio()
+                # Initialize recognizer
+                recognizer = sr.Recognizer()
+                
+                # Use microphone as source
+                with sr.Microphone() as source:
+                    # Adjust for ambient noise
+                    recognizer.adjust_for_ambient_noise(source, duration=1)
+                    # Listen for audio input
+                    audio = recognizer.listen(source, timeout=5, phrase_time_limit=10)
+                    
+                    st.info("Processing your speech...")
+                    # Convert speech to text using Google Speech Recognition
+                    transcription = recognizer.recognize_google(audio)
+                    
+                    # Store live transcription in session state
+                    st.session_state.live_transcription_result = transcription
+                    
+                    st.success("✅ Live transcription completed!")
 
-                # Store live transcription in session state
-                st.session_state.live_transcription_result = rt_transcription
-
-                st.success("✅ Live transcription completed!")
-
+            except sr.UnknownValueError:
+                st.error("❌ Could not understand audio. Please try again.")
+            except sr.RequestError as e:
+                st.error(f"❌ Could not request results from speech recognition service: {str(e)}")
             except Exception as e:
                 st.error(f"❌ Live transcription failed: {str(e)}")
                 st.info("💡 Please check your microphone permissions and try again.")

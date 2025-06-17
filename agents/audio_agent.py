@@ -39,12 +39,21 @@ class AudioTranscriptionAgent:
     # Create transcribe_real_time_audio method using pyaudio and OpenAI's real-time transcription capabilities
     def transcribe_real_time_audio(self):
         """Transcribe real-time audio using OpenAI's real-time transcription capabilities"""
+        # Audio Recording Configuration
+        CHUNK = 8192  # Larger buffer for better processing efficiency
+        FORMAT = pyaudio.paFloat32  # 32-bit float for studio-quality audio
+        CHANNELS = 1  # Mono channel - better for speech recognition
+        RATE = 44100  # CD-quality sampling rate
+        RECORD_SECONDS = 2  # 5 seconds for better context
 
-        CHUNK = 1024
-        FORMAT = pyaudio.paFloat32
-        CHANNELS = 1
-        RATE = 16000
-        RECORD_SECONDS = 5
+        # Advanced configurations
+        THRESHOLD = 0.03  # Sound detection threshold
+        SILENCE_LIMIT = 1  # Seconds of silence before stopping
+
+        # For potential future enhancements:
+        # - Voice activity detection (VAD)
+        # - Automatic gain control
+        # - Real-time noise suppression
 
         try:
             p = pyaudio.PyAudio()
