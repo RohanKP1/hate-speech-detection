@@ -29,6 +29,13 @@ class Config:
         "REDDIT_USER_AGENT", "RedditScrapingAgent/1.0 by u/IND_ROHAN"
     )
 
+    # Qdrant Settings
+    QDRANT_HOST = "qdrant"
+    QDRANT_PORT = 6333
+
+    # Ollama Settings
+    OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://ollama:11434")
+
     @classmethod
     def validate_config(cls):
         """Validate that all required configuration variables are set"""

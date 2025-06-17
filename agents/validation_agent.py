@@ -1,3 +1,4 @@
+import os
 import ollama
 from typing import Dict
 from agents.hate_speech_agent import HateSpeechDetectionAgent
@@ -10,11 +11,15 @@ class ValidationAgent:
         self.categories = ["Hate", "Toxic", "Offensive", "Neutral", "Ambiguous"]
         self.model_name = model_name
 
+        # Use OLLAMA_HOST from environment, default to http://localhost:11434
+        self.ollama_host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+        ollama.base_url = self.ollama_host
+
         try:
             # Test if model is available, pull if not
             self._ensure_model_available()
             self.logger.info(
-                f"Successfully initialized Ollama with model: {model_name}"
+                f"Successfully initialized Ollama with model: {model_name} at {self.ollama_host}"
             )
         except Exception as e:
             self.logger.error(f"Failed to initialize Ollama: {str(e)}")
