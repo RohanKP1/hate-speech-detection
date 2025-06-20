@@ -29,6 +29,10 @@ class Config:
         "REDDIT_USER_AGENT", "RedditScrapingAgent/1.0 by u/IND_ROHAN"
     )
 
+    # Qdrant settings
+    QDRANT_HOST = os.getenv("QDRANT_HOST", "localhost")
+    QDRANT_PORT = int(os.getenv("QDRANT_PORT", 6333))
+
     @classmethod
     def validate_config(cls):
         """Validate that all required configuration variables are set"""
